@@ -1,3 +1,17 @@
+![GitHub Logo](/images/logo.png)
+## 
+Welcome to GitHub Pages
+## 
+Welcome      |          to GitHub Pages
+------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------
+Content from cell 1 | Content from cell 2
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Selinedv/selinedv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
