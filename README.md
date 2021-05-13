@@ -1,4 +1,8 @@
-First Header | ## Селин Дмитрий Владимирович
+![Image of Yaktocat](https://github.com/Selinedv/selinedv.github.io/blob/main/Фото%20в%20рубашке.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+------------ | ## Селин Дмитрий Владимирович
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
