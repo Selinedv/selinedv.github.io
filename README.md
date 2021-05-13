@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/Selinedv/selinedv.github.io/blob/main/resumephoto.jpg)
+![Image](https://github.com/Selinedv/selinedv.github.io/blob/main/resumephoto.jpg)
 
 
 
