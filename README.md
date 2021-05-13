@@ -1,12 +1,4 @@
-![GitHub Logo](/images/logo.png)
-## 
-Welcome to GitHub Pages
-## 
-Welcome      |          to GitHub Pages
------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------
-Content from cell 1 | Content from cell 2
-
-First Header | Second Header
+First Header | Селин Дмитрий Владимирович
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
