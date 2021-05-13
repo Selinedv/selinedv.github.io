@@ -1,12 +1,14 @@
 ![Image of Yaktocat](https://github.com/Selinedv/selinedv.github.io/blob/main/resumephoto.jpg)
 
+
+
+## Селин Дмитрий Владимирович
+
+
 ------------ | Селин Дмитрий Владимирович
 ------------ | -------------
 Content from cell 1 | Content from cell 2column
 Content in the first column | Content in the second column
-
-
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Selinedv/selinedv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
