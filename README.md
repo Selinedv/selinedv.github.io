@@ -1,5 +1,5 @@
-![Image](https://github.com/Selinedv/selinedv.github.io/blob/main/resumephoto.jpg)
 
+<img class="img-responsive" src="https://github.com/Selinedv/selinedv.github.io/blob/main/resumephoto.jpg"/>{: .center} <!-- no responses yet --> 
 
 
 ## Селин Дмитрий Владимирович
