@@ -4,12 +4,12 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="130">      
 
 ### ㅤJunior QA Engeneer 
-#### ㅤAge: 37
-#### ㅤPhone: +7(926)350-80-05
-#### ㅤAdress: Moscow, VDNH
-#### ㅤMail: selinedv@gmail.com 
-#### ㅤGithub: selinedv.github.io
-#### ㅤLinked in: linkedin.com/in/dmitry-selin-a71085211
+> Age: 37
+> Phone: +7(926)350-80-05
+> Adress: Moscow, VDNH
+> Mail: selinedv@gmail.com 
+> CV web: selinedv.github.io
+> Linkedin: linkedin.com/in/dmitry-selin-a71085211
 ### About
 ####  ㅤ- English B2
 ####  ㅤ- Aknowledgment of x86 architecture
