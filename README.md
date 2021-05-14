@@ -12,10 +12,10 @@
 ### ㅤLinked in: linkedin.com/in/dmitry-selin-a71085211
 ㅤ
 ### About
-* English B2
-* Aknowledgment of x86 architecture
-* Web applications basic level automaton: retailcrm.ru, hh.ru
-ㅤ
+####  ㅤ- English B2
+####  ㅤ- Aknowledgment of x86 architecture
+####  ㅤ- Web applications basic level automaton: retailcrm.ru, hh.ru
+
 ### Experience
 
 #### Yandex.Practicum    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ02/21 - 05/21
