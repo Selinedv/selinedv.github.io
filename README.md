@@ -3,7 +3,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="130">      
 
-### ㅤJunior QA Engeneer 
+### ㅤJunior QA Engineer 
 
  ㅤ*Age: 37*
  ㅤ*Phone:* *+7(926)350-80-05* ㅤ
