@@ -10,12 +10,12 @@
 ######  Mail: selinedv@gmail.com 
 ######  CV web: selinedv.github.io
 ######  Linkedin: linkedin.com/in/dmitry-selin-a71085211
-```
-```
+
 ### About
 ######  ㅤ- English B2
 ######  ㅤ- Aknowledgment of x86 architecture
 ######  ㅤ- Web applications basic level automaton: BAS, puppeteer
+
 ### Experience
 -  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
