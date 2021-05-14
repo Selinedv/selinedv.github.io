@@ -1,11 +1,10 @@
 
 # Selin Dmitry Vladimirovich
 
-<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="145">      
+<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="150">      
 
 ###         ㅤJunior QA Engineer 
-
-####         ㅤPhone: +7(926)350-80-05
+####          ㅤPhone: +7(926)350-80-05
 ####         ㅤ Age 37
 ####         ㅤ [Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please")         ㅤ
 ####         ㅤ [Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")        
