@@ -4,11 +4,11 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="135">      
 
 ### ㅤ     Junior QA Engineer 
-Phone: +7(926)350-80-05<p>
-Age: 37<p>
-[Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please")<p>    ㅤ
-[Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")<p>        
-[Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")<p>
+Phone: +7(926)350-80-05 <p>
+Age: 37 <p>
+[Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please") <p>    ㅤ
+[Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <p>        
+[Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <p>
 
 
 #### **About**
