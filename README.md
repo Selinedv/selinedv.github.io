@@ -41,7 +41,7 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
-Ignis Pixel (International Online Store): 09/20 - *\/\*
+Ignis Pixel (International Online Store): 09/20 - *\*
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
   * Process incoming requests, extract expectations, provide a solution
