@@ -8,13 +8,13 @@
 *          ㅤPhone: +7(926)350-80-05
 *          ㅤAge 37
 *          ㅤSelinedv@gmail.com
-*          ㅤ[Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
-*          ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
+*          ㅤ[Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Скачать")
+*          ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211 "Нужен VPN")
 
 #### About
 * English B2
 * Awareness x86 architecture
-* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
+* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Посмотреть на Utube")ㅤ
 
 #### Experience
 Yandex.Practicum: 11/20 - 04/21 
@@ -40,7 +40,7 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
-Ignis Pixel (International Online Store): 09/20 - now
+Ignis Pixel (International Online Store): 09/20 - ''*/*''
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
   * Process incoming requests, extract expectations, provide a solution
@@ -58,7 +58,7 @@ Business Fabric (Resale, Distribution): 04/18 - 08/19
    * Compile tender technical specifications and tender application documents
    * Develop mutually beneficial partnership
 
-Superwave Group (Integration, Distribution): 04/18 - 08/19
+Superwave Group (Integration, Distribution): 02/12-02/14
    * *Product Manager (Lenovo ThinkPad/Center)*
    * Provide presale expertize, compile tender technical specifications for sale team
    * Take action to balance the inventory and do a daily routine of inventory reporting
