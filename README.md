@@ -18,8 +18,10 @@
 ###### ㅤㅤWeb applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 #### Experience
-#####  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
-###### ㅤApprenticeship: Software QA 
+
+#####   Yandex.Practicum: 02/21 - 05/21 
+###### ㅤApprenticeship: Software QA
+
 ##### ㅤ ㅤ ㅤ ㅤCan do list:
 ###### ㅤㅤCreate artifacts: test case, check list, mind map, bug report
 ###### ㅤㅤUtilize DevTools: Elements, Network, Device Toolbar
