@@ -36,7 +36,7 @@ Yandex.Practicum: 02/21 - 05/21
 Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 #### Education
-RosNOU, Lingustics, Interpreter.
+RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
