@@ -8,7 +8,7 @@
  ㅤPhone: +7(926)350-80-05
  ㅤAdress: Moscow, VDNH
  ㅤselinedv@gmail.com 
- ㅤ[CV rus pdf:](https://github.com/Selinedv/selinedv.github.io/main/Selin%20QC%20trainee.pdf)
+ ㅤ[CV_Rus:](https://github.com/Selinedv/selinedv.github.io/main/Selin%20QC%20trainee.pdf)
  ㅤ[Linkedin:](https://linkedin.com/in/dmitry-selin-a71085211)
 
 ### About
