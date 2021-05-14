@@ -4,22 +4,22 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="130">      
 
 ### ㅤJunior QA Engeneer 
-> Age: 37
- Phone: +7(926)350-80-05
- Adress: Moscow, VDNH
- Mail: selinedv@gmail.com 
- CV web: selinedv.github.io
- Linkedin: linkedin.com/in/dmitry-selin-a71085211
+######  Age: 37
+######  Phone: +7(926)350-80-05
+######  Adress: Moscow, VDNH
+######  Mail: selinedv@gmail.com 
+######  CV web: selinedv.github.io
+######  Linkedin: linkedin.com/in/dmitry-selin-a71085211
 ```
 ```
 ### About
-####  ㅤ- English B2
-####  ㅤ- Aknowledgment of x86 architecture
-####  ㅤ- Web applications basic level automaton: BAS, puppeteer
+######  ㅤ- English B2
+######  ㅤ- Aknowledgment of x86 architecture
+######  ㅤ- Web applications basic level automaton: BAS, puppeteer
 ### Experience
 -  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
-####   Can do list:
+######   Can do list:
 ######  ㅤ- Create artifacts: test case, check list, mind map, bug report
 ######  ㅤ- Utilize DevTools: Elements, Network, Device Toolbar
 ######  ㅤ- Syntax API requests: GET, POST, PUT, DELETE
@@ -27,7 +27,7 @@
 ######  ㅤ- Request PostgreSQL data: SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
 ######  ㅤ- Unix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
 ######  ㅤ- Basic puppeteer automaton: [hh.ru sample](https://youtu.be/hSY4BcvlmOI)ㅤ
-####  Practice:
+######  Practice:
 ######  ㅤ- Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
 ######  ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
 ######  ㅤ- API validation testing and data requests
