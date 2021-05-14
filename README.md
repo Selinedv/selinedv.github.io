@@ -39,6 +39,7 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
+#### **Other experience**
 Ignis Pixel (International Online Store): 09/20 - *\*
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
