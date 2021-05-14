@@ -20,21 +20,20 @@
 #### Experience
 #####  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
-Can do list:
+##### ㅤ ㅤ ㅤ ㅤCan do list:
 ###### ㅤㅤCreate artifacts: test case, check list, mind map, bug report
 ###### ㅤㅤUtilize DevTools: Elements, Network, Device Toolbar
 ###### ㅤㅤSyntax API requests: GET, POST, PUT, DELETE
 ###### ㅤㅤSniff API traffic, mipmapping, breakpoints
-###### ㅤㅤRequest data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
-###### ㅤㅤUnix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
-Practice:
+###### ㅤㅤRequest data (PostgreSQL): LEFT JOIN, RIGHT JOIN
+###### ㅤㅤUnix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt
+##### ㅤ ㅤ ㅤ ㅤPractice:
 ###### ㅤㅤFunctional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
 ###### ㅤㅤNon-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
-###### ㅤㅤAPI validation testing and data requests
-###### ㅤㅤSQL join based requests
-   
-Skills: 
-###### Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+###### ㅤㅤAPI validation / API requests
+###### ㅤㅤSQL join based requests 
+##### ㅤ ㅤ ㅤ ㅤSkills: 
+###### ㅤㅤFunctional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 #####   Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
