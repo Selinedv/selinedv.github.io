@@ -1,9 +1,9 @@
 
 # Selin Dmitry Vladimirovich
 
-<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="200">      
+<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="130">      
 
-### ㅤSoftware QA Junior
+### ㅤ Junior QA Engeneer 
 #### ㅤAge: 37
 #### ㅤPhone: +7(926)350-80-05
 #### ㅤAdress: Moscow, VDNH
