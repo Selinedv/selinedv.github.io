@@ -15,7 +15,7 @@
 ### About
 ######  ㅤ- English B2
 ######  ㅤ- Awareness x86 architecture
-######  ㅤ- Web applications basic level automaton: BAS, puppeteer
+######  ㅤ- Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 ### Experience
 -  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
@@ -27,7 +27,6 @@
 ######  ㅤ- Sniff API traffic, mipmapping, breakpoints
 ######  ㅤ- Request data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
 ######  ㅤ- Unix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
-######  ㅤ- Basic puppeteer automaton: [hh.ru sample](https://youtu.be/hSY4BcvlmOI)ㅤ
     Practice:
 ######  ㅤ- Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
 ######  ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
