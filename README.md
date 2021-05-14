@@ -14,7 +14,7 @@
 
 ### About
 ######  ㅤ- English B2
-######  ㅤ- Aknowledgment of x86 architecture
+######  ㅤ- Awareness x86 architecture
 ######  ㅤ- Web applications basic level automaton: BAS, puppeteer
 
 ### Experience
