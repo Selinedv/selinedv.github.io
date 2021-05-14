@@ -3,13 +3,13 @@
 
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="140">      
 
-###     Junior QA Engineer 
+###         Junior QA Engineer 
 
-######  ㅤ-  Phone: +7(926)350-80-05ㅤ
-######  ㅤ- Age: 37
-######  ㅤ- Selinedv@gmail.com
-######  ㅤ-  [CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
-######  ㅤ- [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
+######  ㅤ Phone: +7(926)350-80-05ㅤ
+######  ㅤ Age: 37
+######  ㅤ Selinedv@gmail.com
+######  ㅤ [CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
+######  ㅤ [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
 
 
 ### About
