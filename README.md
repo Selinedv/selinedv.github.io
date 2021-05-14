@@ -12,12 +12,12 @@
 ######  ㅤ [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
 
 
-### About
+#### About
 ######  ㅤ- English B2
 ######  ㅤ- Awareness x86 architecture
 ######  ㅤ- Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
-### Experience
+#### Experience
 -  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
     Can do list:
@@ -59,3 +59,5 @@
 ###### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
 ###### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
 ###### ㅤ- Form distinct inventory stock based on ABC and competitors' stock.
+
+
