@@ -4,12 +4,12 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="130">      
 
 ### ㅤJunior QA Engeneer 
-######  Age: 37
-######  Phone: +7(926)350-80-05
-######  Adress: Moscow, VDNH
-######  selinedv@gmail.com 
-######  [CV rus pdf:](https://github.com/Selinedv/selinedv.github.io/blob/main/Selin%20QC%20trainee.pdf)
-######  [Linkedin:](linkedin.com/in/dmitry-selin-a71085211)
+ ㅤAge: 37
+ ㅤPhone: +7(926)350-80-05
+ ㅤAdress: Moscow, VDNH
+ ㅤselinedv@gmail.com 
+ ㅤ[CV rus pdf:](https://github.com/Selinedv/selinedv.github.io/blob/main/Selin%20QC%20trainee.pdf)
+ ㅤ[Linkedin:](linkedin.com/in/dmitry-selin-a71085211)
 
 ### About
 ######  ㅤ- English B2
