@@ -20,21 +20,21 @@
 #### Experience
 #####  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
-    Can do list:
+Can do list:
 ######  ㅤ- Create artifacts: test case, check list, mind map, bug report
 ######  ㅤ- Utilize DevTools: Elements, Network, Device Toolbar
 ######  ㅤ- Syntax API requests: GET, POST, PUT, DELETE
 ######  ㅤ- Sniff API traffic, mipmapping, breakpoints
 ######  ㅤ- Request data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
 ######  ㅤ- Unix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
-    Practice:
+Practice:
 ######  ㅤ- Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
 ######  ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
 ######  ㅤ- API validation testing and data requests
 ######  ㅤ- SQL join based requests
    
-    Skills: Functional testing, Bug reporting, DevTools, Postman, Charles, 
-    PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+Skills: Functional testing, Bug reporting, DevTools, Postman, Charles, 
+PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 #####   Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
