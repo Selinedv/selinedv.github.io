@@ -9,7 +9,7 @@
 ######  Adress: Moscow, VDNH
 ######  selinedv@gmail.com 
 ######  [CV github:](selinedv.github.io)
-######  [CV rus pdf:](shorturl.at/btxRY)
+######  [CV rus pdf:](https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/Selin%20QC%20trainee.pdf)
 ######  [Linkedin:](linkedin.com/in/dmitry-selin-a71085211)
 
 ### About
