@@ -23,7 +23,7 @@
     * Create artifacts: test case, check list, mind map, bug report
     * Utilize DevTools: Elements, Network, Device Toolbar
     * Syntax API requests: GET, POST, PUT, DELETE
-    * Sniff API traffic, mipmapping, breakpoints
+    * Sniff API traffic: mipmapping, breakpoints
     * Request data (PostgreSQL): LEFT JOIN, RIGHT JOIN
     * Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt
   * Practice:
@@ -31,7 +31,7 @@
     * Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
     * API validation / API requests
     * SQL join based requests 
-  * Skills: 
+####  Skills: 
     * Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 * Ignis Pixel (International Online Store): 09/20 - now
@@ -42,7 +42,7 @@
 
 * Superwave Group (Integration, Distribution): 04/18 - 08/19
   * Business Development Manager (UPS)
-  * Process and analyze tender procedures via procurement portals (EIS) and partners' systems
+  * Process and analyze tender procedures via procurement portals (EIS) and CRM
   * Compile tender tech documentation, provide technical advice and support for sale team
   * Develop mutually beneficial partnership with partners
 
