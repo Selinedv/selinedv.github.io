@@ -21,8 +21,8 @@
 ### Experience
 ``
 ``
-#### Yandex.Practicum    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ02/21 - 05/21
-#### Apprenticeship: Software QA 
+-  Yandex.Practicum    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ02/21 - 05/21
+>  Apprenticeship: Software QA 
 
 #### Can do list:
 ######  ㅤ- Create artifacts: test case, check list, mind map, bug report
@@ -43,26 +43,26 @@
 ######  Pet - projects: Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API) Яндекс.Такси (Console, DB)
 ``
 ``
-#### Ignis Pixel (International Online Store): 09/20 - now
-###### Customer manager (LED programmable devices)
-###### ㅤ- Process incoming requests, extract expectations, provide a solution
+-  Ignis Pixel (International Online Store): 09/20 - now
+>  Customer manager (LED programmable devices)
+###### ㅤ - Process incoming requests, extract expectations, provide a solution
 ###### ㅤ- Build up mutual long term relations with partners and clients
 ###### ㅤ- Post sale IT support, Jira trackerㅤ
 
-#### Superwave Group (Integration, Distribution): 04/18 - 08/19
-###### Business Development Manager (UPS)
+- Superwave Group (Integration, Distribution): 04/18 - 08/19
+> Business Development Manager (UPS)
 ###### ㅤ- Process and analyze tender procedures via procurement portals (EIS) and partners' systems
 ###### ㅤ- Compile tender tech documentation, provide technical advice and support for sale team
 ###### ㅤ- Develop mutually beneficial partnership with partners
 
-#### Business Fabric (Resale, Distribution): 04/18 - 08/19
-###### Sales Manager = >Key Account Manager (HP, Dell, Lenovo, Logitech, Samsung, Kyocera, Lexmark)
+- Business Fabric (Resale, Distribution): 04/18 - 08/19
+> Sales Manager > Key Account Manager (HP, Dell, Lenovo)
 ###### ㅤ- Participate tender prоcedures via partners procurement systems / tender portal (EIS)
 ###### ㅤ- Compile tender technical specifications and tender application documents
 ###### ㅤ- Develop mutually beneficial partnership
 
-#### Superwave Group (Integration, Distribution): 04/18 - 08/19
-###### Product Manager (Lenovo ThinkPad/Center)
+- Superwave Group (Integration, Distribution): 04/18 - 08/19
+> Product Manager (Lenovo ThinkPad/Center)
 ###### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
 ###### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
 ###### ㅤ- Form distinct inventory stock based on ABC and competitors' stock.
