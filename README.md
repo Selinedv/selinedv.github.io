@@ -37,8 +37,8 @@
 
 - Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
-###### ㅤ- Process incoming requests, extract expectations, provide a solution
 ###### ㅤ- Build up mutual long term relations with partners and clients
+###### ㅤ- Process incoming requests, extract expectations, provide a solution
 ###### ㅤ- Post sale IT support, Jira trackerㅤ
 
 - Superwave Group (Integration, Distribution): 04/18 - 08/19
