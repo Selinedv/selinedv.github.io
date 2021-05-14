@@ -5,7 +5,7 @@
 
 ###         ㅤJunior QA Engineer 
 
-*          ㅤPhone: +7(926)350-80-05ㅤ
+*          ㅤPhone: +7(926)350-80-05
 *          ㅤSelinedv@gmail.com
 *          ㅤ[CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
 *          ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
