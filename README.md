@@ -17,7 +17,7 @@
 * Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 #### Experience
-* Yandex.Practicum: 02/21 - 05/21 
+Yandex.Practicum: 02/21 - 05/21 
   * Apprenticeship: Software QA
   * Can do list:
     * Create artifacts: test case, check list, mind map, bug report
@@ -34,25 +34,25 @@
   *  Skills: 
      * Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
-* Ignis Pixel (International Online Store): 09/20 - now
+Ignis Pixel (International Online Store): 09/20 - now
   * Customer manager (LED programmable devices)
   * Build up mutual long term relations with partners and clients
   * Process incoming requests, extract expectations, provide a solution
   * Post sale IT support, Jira trackerㅤ
 
-* Superwave Group (Integration, Distribution): 04/18 - 08/19
+Superwave Group (Integration, Distribution): 04/18 - 08/19
   * Business Development Manager (UPS)
   * Process and analyze tender procedures via procurement portals (EIS) and CRM
   * Compile tender tech documentation, provide technical advice and support for sale team
   * Develop mutually beneficial partnership with partners
 
-* Business Fabric (Resale, Distribution): 04/18 - 08/19
+Business Fabric (Resale, Distribution): 04/18 - 08/19
     * Sales Manager > Key Account Manager (HP, Dell, Lenovo)
     * Participate tender prоcedures via partners procurement systems / tender portal (EIS)
     * Compile tender technical specifications and tender application documents
     * Develop mutually beneficial partnership
 
-* Superwave Group (Integration, Distribution): 04/18 - 08/19
+Superwave Group (Integration, Distribution): 04/18 - 08/19
     * Product Manager (Lenovo ThinkPad/Center)
     * Provide presale expertize, compile tender technical specifications for sale team
     * Take action to balance the inventory and do a daily routine of inventory reporting
