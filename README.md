@@ -39,11 +39,12 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
-#### **Other experience**
+#### **Irrelevant experience**
 Ignis Pixel (International Online Store): 09/20 - *\*
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
-  * Post sale IT support, Jira trackerㅤ
+  * Processing of requests and sales funnel
+  * IT Support, Jira trackerㅤ
 
 Superwave Group (Integration, Distribution): 04/18 - 08/19
   * *Business Development Manager (UPS)*
