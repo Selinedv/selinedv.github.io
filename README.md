@@ -40,29 +40,29 @@
 ######  ㅤ- SQL join based requests
 
 ######  Artifacts: Mindmap, Test list, Test Case, Bug Report 
-######  Pet - projects: #### Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API) Яндекс.Такси (Console, DB)
+######  Pet - projects: Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API) Яндекс.Такси (Console, DB)
 ``
 ``
-#### Ignis Pixel (International Online Store) 09/20 - now
-#### Customer manager (LED programmable devices)
-#### ㅤ- Process incoming requests, extract expectations, provide a solution
-#### ㅤ- Build up mutual long term relations with partners and clients
-#### ㅤ- Post sale IT support, Jira trackerㅤ
+#### Ignis Pixel (International Online Store): 09/20 - now
+###### Customer manager (LED programmable devices)
+###### ㅤ- Process incoming requests, extract expectations, provide a solution
+###### ㅤ- Build up mutual long term relations with partners and clients
+###### ㅤ- Post sale IT support, Jira trackerㅤ
 
-#### Superwave Group (Integration, Distribution)ㅤ04/18 - 08/19
-#### Business Development Manager (UPS)
-#### ㅤ- Process and analyze tender procedures via procurement portals (EIS) and partners' systems
-#### ㅤ- Compile tender tech documentation, provide technical advice and support for sale team
-#### ㅤ- Develop mutually beneficial partnership with partners
+#### Superwave Group (Integration, Distribution): 04/18 - 08/19
+###### Business Development Manager (UPS)
+###### ㅤ- Process and analyze tender procedures via procurement portals (EIS) and partners' systems
+###### ㅤ- Compile tender tech documentation, provide technical advice and support for sale team
+###### ㅤ- Develop mutually beneficial partnership with partners
 
-#### Business Fabric / Бизнес Фабрика (Resale, Distribution)ㅤ04/18 - 08/19
-#### Sales Manager = >Key Account Manager (HP, Dell, Lenovo, Logitech, Samsung, Kyocera, Lexmark)
-#### ㅤ- Participate tender prоcedures via partners procurement systems / tender portal (EIS)
-#### ㅤ- Compile tender technical specifications and tender application documents
-#### ㅤ- Develop mutually beneficial partnership
+#### Business Fabric (Resale, Distribution): 04/18 - 08/19
+###### Sales Manager = >Key Account Manager (HP, Dell, Lenovo, Logitech, Samsung, Kyocera, Lexmark)
+###### ㅤ- Participate tender prоcedures via partners procurement systems / tender portal (EIS)
+###### ㅤ- Compile tender technical specifications and tender application documents
+###### ㅤ- Develop mutually beneficial partnership
 
-#### Superwave Group (Integration, Distribution)ㅤ04/18 - 08/19
-#### Product Manager (Lenovo ThinkPad/Center)
-#### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
-#### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
-#### ㅤ- Form distinct inventory stock based on ABC and competitors' stock.
+#### Superwave Group (Integration, Distribution): 04/18 - 08/19
+###### Product Manager (Lenovo ThinkPad/Center)
+###### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
+###### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
+###### ㅤ- Form distinct inventory stock based on ABC and competitors' stock.
