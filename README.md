@@ -1,7 +1,7 @@
 
 # Selin Dmitry Vladimirovich
 
-<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="140">      
+<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="150">      
 
 ###         ㅤJunior QA Engineer 
 
