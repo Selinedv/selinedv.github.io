@@ -10,17 +10,14 @@
 #### ㅤMail: selinedv@gmail.com 
 #### ㅤGithub: selinedv.github.io
 #### ㅤLinked in: linkedin.com/in/dmitry-selin-a71085211
-``
-``
+
 ### About
 ####  ㅤ- English B2
 ####  ㅤ- Aknowledgment of x86 architecture
 ####  ㅤ- Web applications basic level automaton: BAS, puppeteer
-``
-``
+
 ### Experience
-``
-``
+
 -  Yandex.Practicum    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ02/21 - 05/21
 >  Apprenticeship: Software QA 
 
@@ -41,8 +38,7 @@
 
 ######  Artifacts: Mindmap, Test list, Test Case, Bug Report 
 ######  Pet - projects: Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API) Яндекс.Такси (Console, DB)
-``
-``
+
 -  Ignis Pixel (International Online Store): 09/20 - now
 >  Customer manager (LED programmable devices)
 ###### ㅤ - Process incoming requests, extract expectations, provide a solution
