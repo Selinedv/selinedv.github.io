@@ -5,11 +5,11 @@
 
 ### ㅤJunior QA Engineer 
 
- ㅤ ㅤ*Age: 37*
- ㅤ ㅤ*Phone:* *+7(926)350-80-05* ㅤ
-    ㅤ*Selinedv@gmail.com*
- ㅤ ㅤ[CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
- ㅤ ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
+    Age: 37
+    Phone: +7(926)350-80-05ㅤ
+    Selinedv@gmail.com
+    [CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
+    [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
 
 
 ### ㅤAbout
@@ -35,7 +35,7 @@
 ######  ㅤ- SQL join based requests
 ###### Artifacts: Mindmap, Test list, Test Case, Bug Report 
 ###### Pet projects: Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API)
-###### Skills: Functional testing Bug Reporting DevTools Postman&Charles API:RestJSON PostgreSQL Terminal Puppeteer BrowserAutomatonStudio AndroidStudio Photoshop
+> Skills: Functional testing, Bug Reporting, DevTools, Postman&Charles, API:RestJSON, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 - Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
