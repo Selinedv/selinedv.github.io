@@ -47,15 +47,15 @@ Superwave Group (Integration, Distribution): 04/18 - 08/19
   * Develop mutually beneficial partnership with partners
 
 Business Fabric (Resale, Distribution): 04/18 - 08/19
-    * Sales Manager > Key Account Manager (HP, Dell, Lenovo)
-    * Participate tender prоcedures via partners procurement systems / tender portal (EIS)
-    * Compile tender technical specifications and tender application documents
-    * Develop mutually beneficial partnership
+   * Sales Manager > Key Account Manager (HP, Dell, Lenovo)
+   * Participate tender prоcedures via partners procurement systems / tender portal (EIS)
+   * Compile tender technical specifications and tender application documents
+   * Develop mutually beneficial partnership
 
 Superwave Group (Integration, Distribution): 04/18 - 08/19
-    * Product Manager (Lenovo ThinkPad/Center)
-    * Provide presale expertize, compile tender technical specifications for sale team
-    * Take action to balance the inventory and do a daily routine of inventory reporting
-    * Form distinct inventory stock based on ABC and competitors' stock.
+   * Product Manager (Lenovo ThinkPad/Center)
+   * Provide presale expertize, compile tender technical specifications for sale team
+   * Take action to balance the inventory and do a daily routine of inventory reporting
+   * Form distinct inventory stock based on ABC and competitors' stock.
 
 
