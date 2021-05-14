@@ -55,9 +55,9 @@ Skills:
 ###### ㅤ- Develop mutually beneficial partnership
 
 #####   Superwave Group (Integration, Distribution): 04/18 - 08/19
-###### ㅤProduct Manager (Lenovo ThinkPad/Center)
-###### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
-###### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
-###### ㅤ- Form distinct inventory stock based on ABC and competitors' stock.
+> ###### ㅤProduct Manager (Lenovo ThinkPad/Center)
+> ###### ㅤProvide presale expertize, compile tender technical specifications for sale team
+> ###### ㅤTake action to balance the inventory and do a daily routine of inventory reporting
+> ###### ㅤForm distinct inventory stock based on ABC and competitors' stock.
 
 
