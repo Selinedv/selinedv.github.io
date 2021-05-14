@@ -5,16 +5,17 @@
 
 ###         ㅤJunior QA Engineer 
 
-*          ㅤPhone: +7(926)350-80-05
-*          ㅤAge 37
-*          ㅤSelinedv@gmail.com
-*          ㅤ[Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Скачать")
-*          ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211 "Нужен VPN")
+* Phone: +7(926)350-80-05
+* Age 37
+* [Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please")         ㅤ
+* [Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")        
+* [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
+
 
 #### About
 * English B2
 * Awareness x86 architecture
-* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Посмотреть на Utube")ㅤ
+* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 #### Experience
 Yandex.Practicum: 11/20 - 04/21 
