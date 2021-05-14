@@ -4,12 +4,12 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="135">      
 
 ### ㅤ     Junior QA Engineer 
-- Phone: +7(926)350-80-05
-- Age: 37
-- [Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please") 
-- [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
-- [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
- 
+- >Phone: +7(926)350-80-05
+- >Age: 37
+- >[Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please") 
+- >[Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
+- >[Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
+
 #### **About**
 * English B2
 * Awareness x86 architecture
@@ -42,7 +42,6 @@ RosNOU, Lingustics, Interpreter, 2009.
 Ignis Pixel (International Online Store): 09/20 - *\*
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
-  * Process incoming requests, extract expectations, provide a solution
   * Post sale IT support, Jira trackerㅤ
 
 Superwave Group (Integration, Distribution): 04/18 - 08/19
