@@ -4,12 +4,12 @@
 <img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="180">      
 
 ### ㅤSoftware QA Junior
-### ㅤAge: 37
-### ㅤPhone: +7(926)350-80-05
-### ㅤAdress: Moscow, VDNH
-### ㅤMail: selinedv@gmail.com 
-### ㅤGithub: selinedv.github.io
-### ㅤLinked in: linkedin.com/in/dmitry-selin-a71085211
+#### ㅤAge: 37
+#### ㅤPhone: +7(926)350-80-05
+#### ㅤAdress: Moscow, VDNH
+#### ㅤMail: selinedv@gmail.com 
+#### ㅤGithub: selinedv.github.io
+#### ㅤLinked in: linkedin.com/in/dmitry-selin-a71085211
 ㅤ
 ### About
 ####  ㅤ- English B2
