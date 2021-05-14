@@ -10,9 +10,6 @@
 - [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
 - [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
  
- [bq]: #blockquote
-  [l]:  #list
-
 #### **About**
 * English B2
 * Awareness x86 architecture
@@ -34,10 +31,10 @@ Yandex.Practicum: 11/20 - 04/21
     * API validation / API requests
     * SQL join based requests 
 
-#### Skills
+#### **Skills**
 Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
-#### Education
+#### **Education**
 RosNOU, Lingustics, Interpreter, 2009.
 
 ***
