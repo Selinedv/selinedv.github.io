@@ -14,10 +14,10 @@
 #### About
 * English B2
 * Awareness x86 architecture
-* Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
+* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 #### Experience
-Yandex.Practicum: 02/21 - 05/21 
+Yandex.Practicum: 11/20 - 04/21 
   * *Apprenticeship: Software QA*
   * Can do list:
     * Create artifacts: test case, check list, mind map, bug report
