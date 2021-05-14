@@ -8,8 +8,9 @@
 ######  Phone: +7(926)350-80-05
 ######  Adress: Moscow, VDNH
 ######  Mail: selinedv@gmail.com 
-######  CV web: selinedv.github.io
-######  Linkedin: linkedin.com/in/dmitry-selin-a71085211
+######  [CV github:](selinedv.github.io)
+######  [CV rus pdf:](shorturl.at/btxRY)
+######  [Linkedin:](linkedin.com/in/dmitry-selin-a71085211)
 
 ### About
 ######  ㅤ- English B2
@@ -34,8 +35,7 @@
 ######  ㅤ- SQL join based requests
 ######   ㅤ Artifacts: Mindmap, Test list, Test Case, Bug Report 
 ######   ㅤ Pet - projects: Яндекс.Самокат (web, mobile, API, DB); Яндекс.Метро (mobile) Яндекс.Маршруты (web); Яндекс.Прилавок (API)
-```
-```
+
 - Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
 ###### ㅤ- Process incoming requests, extract expectations, provide a solution
