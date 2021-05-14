@@ -24,8 +24,8 @@
 ######  ㅤ- Create artifacts: test case, check list, mind map, bug report
 ######  ㅤ- Utilize DevTools: Elements, Network, Device Toolbar
 ######  ㅤ- Syntax API requests: GET, POST, PUT, DELETE
-######  ㅤ- Sniff API requests, mipmapping, breakpoints
-######  ㅤ- Request PostgreSQL data: SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
+######  ㅤ- Sniff API traffic, mipmapping, breakpoints
+######  ㅤ- Request data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
 ######  ㅤ- Unix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
 ######  ㅤ- Basic puppeteer automaton: [hh.ru sample](https://youtu.be/hSY4BcvlmOI)ㅤ
     Practice:
