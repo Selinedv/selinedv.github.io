@@ -18,7 +18,7 @@
 ######  ㅤ- Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 #### Experience
--  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
+#####  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
     Can do list:
 ######  ㅤ- Create artifacts: test case, check list, mind map, bug report
@@ -36,25 +36,25 @@
     Skills: Functional testing, Bug reporting, DevTools, Postman, Charles, 
     PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
-- Ignis Pixel (International Online Store): 09/20 - now
+#####   Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
 ###### ㅤ- Build up mutual long term relations with partners and clients
 ###### ㅤ- Process incoming requests, extract expectations, provide a solution
 ###### ㅤ- Post sale IT support, Jira trackerㅤ
 
-- Superwave Group (Integration, Distribution): 04/18 - 08/19
+#####   Superwave Group (Integration, Distribution): 04/18 - 08/19
 ###### ㅤBusiness Development Manager (UPS)
 ###### ㅤ- Process and analyze tender procedures via procurement portals (EIS) and partners' systems
 ###### ㅤ- Compile tender tech documentation, provide technical advice and support for sale team
 ###### ㅤ- Develop mutually beneficial partnership with partners
 
-- Business Fabric (Resale, Distribution): 04/18 - 08/19
+#####   Business Fabric (Resale, Distribution): 04/18 - 08/19
 ###### ㅤSales Manager > Key Account Manager (HP, Dell, Lenovo)
 ###### ㅤ- Participate tender prоcedures via partners procurement systems / tender portal (EIS)
 ###### ㅤ- Compile tender technical specifications and tender application documents
 ###### ㅤ- Develop mutually beneficial partnership
 
-- Superwave Group (Integration, Distribution): 04/18 - 08/19
+#####   Superwave Group (Integration, Distribution): 04/18 - 08/19
 ###### ㅤProduct Manager (Lenovo ThinkPad/Center)
 ###### ㅤ- Provide presale expertize, compile tender technical specifications for sale team
 ###### ㅤ- Take action to balance the inventory and do a daily routine of inventory reporting
