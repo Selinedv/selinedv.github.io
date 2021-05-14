@@ -31,8 +31,8 @@ Yandex.Practicum: 02/21 - 05/21
     * Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
     * API validation / API requests
     * SQL join based requests 
-  *  Skills: 
-     * Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+#### Skills: 
+Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 ***
 
