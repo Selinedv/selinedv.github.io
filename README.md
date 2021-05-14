@@ -33,8 +33,8 @@ Practice:
 ######  ㅤ- API validation testing and data requests
 ######  ㅤ- SQL join based requests
    
-Skills: Functional testing, Bug reporting, DevTools, Postman, Charles, 
-PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+Skills: 
+###### Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 #####   Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
