@@ -10,7 +10,6 @@
 *          ㅤSelinedv@gmail.com
 *          ㅤ[CV_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf)
 *          ㅤ[Linkedin](https://linkedin.com/in/dmitry-selin-a71085211)
-***
 
 #### About
 * English B2
@@ -34,7 +33,9 @@ Yandex.Practicum: 02/21 - 05/21
     * SQL join based requests 
   *  Skills: 
      * Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+
 ***
+
 Ignis Pixel (International Online Store): 09/20 - now
   * *Customer manager (LED programmable devices)*
   * Build up mutual long term relations with partners and clients
