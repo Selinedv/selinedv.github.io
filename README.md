@@ -18,7 +18,7 @@
 
 #### Experience
 Yandex.Practicum: 11/20 - 04/21 
-  * *Apprenticeship: Software QA*
+  * *Training Course: QA Engineer*
   * Can do list:
     * Create artifacts: test case, check list, mind map, bug report
     * Utilize DevTools: Elements, Network, Device Toolbar
