@@ -7,7 +7,7 @@
 ######  Age: 37
 ######  Phone: +7(926)350-80-05
 ######  Adress: Moscow, VDNH
-######  Mail: selinedv@gmail.com 
+######  selinedv@gmail.com 
 ######  [CV github:](selinedv.github.io)
 ######  [CV rus pdf:](shorturl.at/btxRY)
 ######  [Linkedin:](linkedin.com/in/dmitry-selin-a71085211)
