@@ -5,11 +5,11 @@
 
 ###         ㅤJunior QA Engineer 
 
-* Phone: +7(926)350-80-05
-* Age 37
-* [Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please")         ㅤ
-* [Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")        
-* [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
+###         ㅤPhone: +7(926)350-80-05
+###         ㅤ Age 37
+###         ㅤ [Selinedv@gmail.com](Selinedv@gmail.com "WhatsApp me please")         ㅤ
+###         ㅤ [Resume_Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")        
+###         ㅤ [Linkedin](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
 
 
 #### About
