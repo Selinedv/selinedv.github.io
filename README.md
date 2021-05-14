@@ -13,51 +13,51 @@
 
 
 #### About
-######  ㅤ- English B2
-######  ㅤ- Awareness x86 architecture
-######  ㅤ- Web applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
+###### ㅤㅤEnglish B2
+###### ㅤㅤAwareness x86 architecture
+###### ㅤㅤWeb applications basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI)ㅤ
 
 #### Experience
 #####  Yandex.Practicum: 02/21 - 05/21    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ
 ###### ㅤApprenticeship: Software QA 
 Can do list:
-######  ㅤ- Create artifacts: test case, check list, mind map, bug report
-######  ㅤ- Utilize DevTools: Elements, Network, Device Toolbar
-######  ㅤ- Syntax API requests: GET, POST, PUT, DELETE
-######  ㅤ- Sniff API traffic, mipmapping, breakpoints
-######  ㅤ- Request data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
-######  ㅤ- Unix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
+###### ㅤㅤCreate artifacts: test case, check list, mind map, bug report
+###### ㅤㅤUtilize DevTools: Elements, Network, Device Toolbar
+###### ㅤㅤSyntax API requests: GET, POST, PUT, DELETE
+###### ㅤㅤSniff API traffic, mipmapping, breakpoints
+###### ㅤㅤRequest data (PostgreSQL): SELECT, FROM, OUTERJOIN, WHERE, GROUP BY, ORDER BY
+###### ㅤㅤUnix console: grep -R ^233.201.* ~/logs/2019/apache_2019-12-30.txt > ~/bug1/bugs.txt
 Practice:
-######  ㅤ- Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
-######  ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
-######  ㅤ- API validation testing and data requests
-######  ㅤ- SQL join based requests
+###### ㅤㅤFunctional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
+###### ㅤㅤNon-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
+###### ㅤㅤAPI validation testing and data requests
+###### ㅤㅤSQL join based requests
    
 Skills: 
 ###### Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
 #####   Ignis Pixel (International Online Store): 09/20 - now
 ###### ㅤCustomer manager (LED programmable devices)
-###### ㅤ- Build up mutual long term relations with partners and clients
-###### ㅤ- Process incoming requests, extract expectations, provide a solution
-###### ㅤ- Post sale IT support, Jira trackerㅤ
+###### ㅤㅤBuild up mutual long term relations with partners and clients
+###### ㅤㅤProcess incoming requests, extract expectations, provide a solution
+###### ㅤㅤPost sale IT support, Jira trackerㅤ
 
 #####   Superwave Group (Integration, Distribution): 04/18 - 08/19
 ###### ㅤBusiness Development Manager (UPS)
-###### ㅤ- Process and analyze tender procedures via procurement portals (EIS) and partners' systems
-###### ㅤ- Compile tender tech documentation, provide technical advice and support for sale team
-###### ㅤ- Develop mutually beneficial partnership with partners
+###### ㅤㅤProcess and analyze tender procedures via procurement portals (EIS) and partners' systems
+###### ㅤㅤCompile tender tech documentation, provide technical advice and support for sale team
+###### ㅤㅤDevelop mutually beneficial partnership with partners
 
 #####   Business Fabric (Resale, Distribution): 04/18 - 08/19
 ###### ㅤSales Manager > Key Account Manager (HP, Dell, Lenovo)
-###### ㅤ- Participate tender prоcedures via partners procurement systems / tender portal (EIS)
-###### ㅤ- Compile tender technical specifications and tender application documents
-###### ㅤ- Develop mutually beneficial partnership
+###### ㅤㅤParticipate tender prоcedures via partners procurement systems / tender portal (EIS)
+###### ㅤㅤCompile tender technical specifications and tender application documents
+###### ㅤㅤDevelop mutually beneficial partnership
 
 #####   Superwave Group (Integration, Distribution): 04/18 - 08/19
-> ###### ㅤProduct Manager (Lenovo ThinkPad/Center)
-> ###### ㅤProvide presale expertize, compile tender technical specifications for sale team
-> ###### ㅤTake action to balance the inventory and do a daily routine of inventory reporting
-> ###### ㅤForm distinct inventory stock based on ABC and competitors' stock.
+###### ㅤㅤProduct Manager (Lenovo ThinkPad/Center)
+###### ㅤㅤProvide presale expertize, compile tender technical specifications for sale team
+###### ㅤㅤTake action to balance the inventory and do a daily routine of inventory reporting
+###### ㅤㅤForm distinct inventory stock based on ABC and competitors' stock.
 
 
