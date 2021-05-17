@@ -20,7 +20,7 @@
 Yandex.Practicum: 11/20 - 04/21 
   * *Training Course: QA Engineer*
   * Can do list:
-    * Create artifacts: check list, test case, bug report
+    * Create artifacts: Mindmap, Checklist, Test case, Bug report
     * Utilize DevTools: Elements, Network, Device Toolbar
     * Syntax API requests: GET, POST, PUT, DELETE
     * Sniff API traffic: mipmapping, breakpoints
