@@ -13,7 +13,7 @@
 
 #### **About**
 * English B2
-* Awareness x86 architecture
+* Awareness of x86 architecture
 * Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 #### **Experience**
