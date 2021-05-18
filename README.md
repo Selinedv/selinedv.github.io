@@ -3,17 +3,17 @@
 
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="130"/>  
 
-###  **Junior QA Engineer** 
-- **Phone:** +7(926)350-80-05
-- **Age:** 37
-- **Mail:** Selinedv@gmail.com
-- **Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
-- **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="left"/>
+### **Junior QA Engineer** 
+**Phone:** +7(926)350-80-05<br clear="side"/>
+**Age:** 37<br clear="side"/>
+**Mail:** Selinedv@gmail.com<br clear="side"/>
+**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>   
+**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="left"/>
 
 #### **About**
-* English B2
-* Awareness of x86 architecture
-* Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
+-English B2<br clear="side"/>
+-Awareness of x86 architecture<br clear="side"/>
+-Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 #### **Experience**
 Yandex.Practicum: 11/20 - 04/21 
