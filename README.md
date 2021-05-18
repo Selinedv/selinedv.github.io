@@ -51,7 +51,7 @@ Customer manager (LED programmable devices)<br clear="side"/>
 -Processing of requests and sales funnel<br clear="side"/> 
 -IT Support, Jira trackerㅤ<br clear="side"/> 
 
-_Superwave Group (Integration, Distribution): 04/18 - 08/19_ <br clear="side"/>
+_Superwave Group (Distribution): 04/18 - 08/19_ <br clear="side"/>
 Business Development Manager (UPS)<br clear="side"/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear="side"/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear="side"/>
@@ -63,7 +63,7 @@ Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear="side"/>
 -Compile tender technical specifications and tender application documents <br clear="side"/>
 -Develop mutually beneficial partnership<br clear="side"/>
 
-_Superwave Group (Integration, Distribution): 02/12-02/14_ <br clear="side"/>
+_Superwave Group (Distribution): 02/12-02/14_ <br clear="side"/>
 Product Manager (Lenovo ThinkPad/Center) <br clear="side"/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear="side"/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear="side"/>
