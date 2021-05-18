@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
 ### **Junior QA Engineer** 
-**Phone:** +7(926)350-80-05<br clear="side"/>
-**Age:** 37 <br clear="side"/>
-**Mail:** Selinedv@gmail.com <br clear="side"/>
-**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>
-**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
+  **Phone:** +7(926)350-80-05<br clear="side"/>
+  **Age:** 37 <br clear="side"/>
+  **Mail:** Selinedv@gmail.com <br clear="side"/>
+  **Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>
+  **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
 
 **About** <br clear="side"/>
 -English B2 <br clear="side"/>
