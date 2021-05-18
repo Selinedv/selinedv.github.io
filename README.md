@@ -1,18 +1,18 @@
 
-# Selin Dmitry Vladimirovich
+# Selin Dmitry Vladimirovich 
 
-<img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="130"/>  
+<img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="130" />  <cut/>
 
 ### **Junior QA Engineer** 
 **Phone:** +7(926)350-80-05<br clear="side"/>
-**Age:** 37<br clear="side"/>
-**Mail:** Selinedv@gmail.com<br clear="side"/>
-**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>   
-**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")  <br clear="side"/>  
+**Age:** 37 <br clear="side"/>
+**Mail:** Selinedv@gmail.com <br clear="side"/>
+**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>
+**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
 
-#### **About**
--English B2<br clear="side"/>
--Awareness of x86 architecture<br clear="side"/>
+**About** <br clear="side"/>
+-English B2 <br clear="side"/>
+-Awareness of x86 architecture <br clear="side"/>
 -Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 #### **Experience**
