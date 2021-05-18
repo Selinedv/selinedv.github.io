@@ -15,31 +15,32 @@
 -Awareness of x86 architecture <br clear="side"/>
 -Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
-#### **Experience**
-Yandex.Practicum: 11/20 - 04/21 
-  * *Training Course: QA Engineer*
-  * Can do list:
-    * Create artifacts: Mindmap, Checklist, Test case, Bug report
-    * Utilize DevTools: Elements, Network, Device Toolbar
-    * Syntax API requests: GET, POST, PUT, DELETE
-    * Sniff API traffic: mipmapping, breakpoints
-    * Request data (PostgreSQL): LEFT JOIN, RIGHT JOIN
-    * Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt
-  * Practice:
-    * Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise.
-    * Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing
-    * API validation / API requests
-    * SQL join based requests 
+**Experience** <br clear="side"/>
+Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
+**Training Course: QA Engineer** <br clear="side"/>
 
-#### **Skills**
-Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+**Can do list:** <br clear="side"/>
+    -Create artifacts: Mindmap, Checklist, Test case, Bug report <br clear="side"/>
+    -Utilize DevTools: Elements, Network, Device Toolbar <br clear="side"/>
+    -Syntax API requests: GET, POST, PUT, DELETE <br clear="side"/>
+    -Sniff API traffic: mipmapping, breakpoints <br clear="side"/>
+    -Request data (PostgreSQL): LEFT JOIN, RIGHT JOIN <br clear="side"/>
+    -Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear="side"/>
+**Practice:** <br clear="side"/>
+    -Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise. <br clear="side"/>
+    -Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing <br clear="side"/>
+    -API validation / API requests <br clear="side"/>
+    -SQL join based requests <br clear="side"/>
 
-#### **Education**
+**Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+
+**Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
 
 ***
 
-#### **Irrelevant experience**
+**Irrelevant experience**
+
 _Ignis Pixel (International Online Store): 09/20_ - *\* <br clear="side"/>
 Customer manager (LED programmable devices)<br clear="side"/> 
 -Build up mutual long term relations with partners and clients<br clear="side"/> 
