@@ -20,12 +20,13 @@ Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
 **Training Course: QA Engineer** <br clear="side"/>
 
 **Can do list:** <br clear="side"/>
-    -Create artifacts: Mindmap, Checklist, Test case, Bug report <br clear="side"/>
-    -Utilize DevTools: Elements, Network, Device Toolbar <br clear="side"/>
+    -Create artifacts: Checklist, Test case, Bug report <br clear="side"/>
+    -Utilize DevTools: Elements, Network, Toolbar <br clear="side"/>
     -Syntax API requests: GET, POST, PUT, DELETE <br clear="side"/>
     -Sniff API traffic: mipmapping, breakpoints <br clear="side"/>
-    -Request data (PostgreSQL): LEFT JOIN, RIGHT JOIN <br clear="side"/>
+    -Request data (PostgreSQL): OUTER JOIN <br clear="side"/>
     -Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear="side"/>
+
 **Practice:** <br clear="side"/>
     -Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise. <br clear="side"/>
     -Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing <br clear="side"/>
