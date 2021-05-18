@@ -8,10 +8,7 @@
 - **Age:** 37
 - **Mail:** Selinedv@gmail.com
 - **Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
-- **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
-
-<br clear="left"/>
-
+- **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="left"/>
 
 #### **About**
 * English B2
