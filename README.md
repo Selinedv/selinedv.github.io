@@ -45,25 +45,25 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 **Irrelevant experience**
 
-_Ignis Pixel (International Online Store): 09/20_ - *\* <br clear="side"/>
+_09/20- *, Ignis Pixel (International Online Store)_  <br clear="side"/>
 Customer manager (LED programmable devices)<br clear="side"/> 
 -Build up mutual long term relations with partners and clients<br clear="side"/> 
 -Processing of requests and sales funnel<br clear="side"/> 
 -IT Support, Jira trackerㅤ<br clear="side"/> 
 
-_Superwave Group (Distribution): 04/18 - 08/19_ <br clear="side"/>
+_04/18 - 08/19, Superwave Group (Distribution)_ <br clear="side"/>
 Business Development Manager (UPS)<br clear="side"/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear="side"/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear="side"/>
 -Develop mutually beneficial partnership with partners<br clear="side"/>
 
-_Business Fabric (Resale, Distribution): 05/14-12/17_ <br clear="side"/>
+_05/14-12/17, Business Fabric (Resale, Distribution)_ <br clear="side"/>
 Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear="side"/>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear="side"/>
 -Compile tender technical specifications and tender application documents <br clear="side"/>
 -Develop mutually beneficial partnership<br clear="side"/>
 
-_Superwave Group (Distribution): 02/12-02/14_ <br clear="side"/>
+_02/12-02/14, Superwave Group (Distribution)_ <br clear="side"/>
 Product Manager (Lenovo ThinkPad/Center) <br clear="side"/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear="side"/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear="side"/>
