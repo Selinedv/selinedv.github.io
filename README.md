@@ -3,35 +3,35 @@
 
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
-### **Junior QA Engineer** 
-  **Phone:** +7(926)350-80-05<br clear="side"/>
-  **Age:** 37 <br clear="side"/>
-  **Mail:** Selinedv@gmail.com <br clear="side"/>
-  **Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>
-  **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
+### ㅤ**Junior QA Engineer** 
+ㅤ**Phone:** +7(926)350-80-05<br clear="side"/>
+ㅤ**Age:** 37 <br clear="side"/>
+ㅤ**Mail:** Selinedv@gmail.com <br clear="side"/>
+ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="side"/>
+ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
 
 **About** <br clear="side"/>
--English B2 <br clear="side"/>
--Awareness of x86 architecture <br clear="side"/>
--Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
+- English B2 <br clear="side"/>
+- Awareness of x86 architecture <br clear="side"/>
+- Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 **Experience** <br clear="side"/>
 Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
 **Training Course: QA Engineer** <br clear="side"/>
 
 **Can do list:** <br clear="side"/>
-    -Create artifacts: Checklist, Test case, Bug report <br clear="side"/>
-    -Utilize DevTools: Elements, Network, Toolbar <br clear="side"/>
-    -Syntax API requests: GET, POST, PUT, DELETE <br clear="side"/>
-    -Sniff API traffic: mipmapping, breakpoints <br clear="side"/>
-    -Request data (PostgreSQL): OUTER JOIN <br clear="side"/>
-    -Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear="side"/>
+ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear="side"/>
+ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear="side"/>
+ㅤ- Syntax API requests: GET, POST, PUT, DELETE <br clear="side"/>
+ㅤ- Sniff API traffic: mipmapping, breakpoints <br clear="side"/>
+ㅤ- Request data (PostgreSQL): OUTER JOIN <br clear="side"/>
+ㅤ- Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear="side"/>
 
 **Practice:** <br clear="side"/>
-    -Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise. <br clear="side"/>
-    -Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing <br clear="side"/>
-    -API validation / API requests <br clear="side"/>
-    -SQL join based requests <br clear="side"/>
+ㅤ- Functional testing of logic and interface: Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise. <br clear="side"/>
+ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing <br clear="side"/>
+ㅤ- API validation / API requests <br clear="side"/>
+ㅤ- SQL join based requests <br clear="side"/>
 
 **Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
