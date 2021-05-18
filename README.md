@@ -1,7 +1,7 @@
 
 # Selin Dmitry Vladimirovich
 
-<img align="left" src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg"  alt="drawing" width="135"  >  
+<img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="135"  >  
 
 ### ㅤ     **Junior QA Engineer** 
 - **Phone:** +7(926)350-80-05
@@ -9,6 +9,8 @@
 - **Mail:** Selinedv@gmail.com
 - **Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file")    
 - **Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that")
+
+<br clear="left"/>
 
 
 #### **About**
