@@ -29,7 +29,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
 
 **Practice:** <br clear="side"/>
 ㅤ- Functional testing, Equivalence Class Partitioning, Boundary Value Analysis, Decision Table, Pairwise. <br clear="side"/>
-ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation testing <br clear="side"/>
+ㅤ- Non-functional testing: interface, security, layouts, cross browsing, performance, localization, interference immunity, installation <br clear="side"/>
 ㅤ- API validation / API requests <br clear="side"/>
 ㅤ- SQL join based requests <br clear="side"/>
 
