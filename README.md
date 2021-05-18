@@ -1,7 +1,7 @@
 
 ## Selin Dmitry Vladimirovich 
 
-<img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/resumephoto.jpg" align="left" alt="image" width="125" />  <cut/>
+<img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
 ### ㅤ**Junior QA Engineer** 
 ㅤ**Phone:** +7(926)350-80-05<br clear="side"/>
