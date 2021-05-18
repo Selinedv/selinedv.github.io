@@ -11,9 +11,9 @@
 ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="side"/>
 
 **About** <br clear="side"/>
-- English B2 <br clear="side"/>
-- Awareness of x86 architecture <br clear="side"/>
-- Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
+ㅤ- English B2 <br clear="side"/>
+ㅤ- Awareness of x86 architecture <br clear="side"/>
+ㅤ- Web application basic level automaton: BAS, [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 **Experience** <br clear="side"/>
 Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
@@ -34,6 +34,9 @@ Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
 ㅤ- SQL join based requests <br clear="side"/>
 
 **Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+
+Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*
+
 
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
