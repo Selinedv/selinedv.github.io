@@ -37,9 +37,11 @@ Yandex.Practicum: 11/20 - 04/21  <br clear="side"/>
 
 Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*
 
-
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
+
+**Courses**:
+EPAM: Software Testing Introduction (ENG)
 
 ***
 
