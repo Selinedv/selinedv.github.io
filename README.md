@@ -22,10 +22,10 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 **Can do list:** <br clear=""/>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
 ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>
-ㅤ- Syntax API requests: GET, POST, PUT, DELETE <br clear=""/>
-ㅤ- Sniff API traffic: mipmapping, breakpoints <br clear=""/>
-ㅤ- Request data (PostgreSQL): OUTER JOIN <br clear=""/>
-ㅤ- Unix console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
+ㅤ- Compose API requests: GET, POST, PUT, DELETE <br clear=""/>
+ㅤ- Proxi / API sniff: mipmapping, breakpoints <br clear=""/>
+ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
+ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 
 **Practice:** <br clear=""/>
 ㅤ- Functional testing of logic & interface of mulitplatfom apps :<br clear=""/> 
