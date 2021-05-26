@@ -45,7 +45,7 @@ Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндек�
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
 
-**Courses**:
+**Extras**:
 EPAM: Software Testing Introduction
 
 ***
