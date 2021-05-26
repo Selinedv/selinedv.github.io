@@ -28,6 +28,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 
 **Practice:** <br clear=""/>
+Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*
 ㅤ- Functional testing of logic & interface of mulitplatfom apps :<br clear=""/> 
 ㅤㅤ web client test technique: state transite, equivalence class partitioning, Boundary Values, Decision Table, Pairwise <br clear=""/>
 ㅤㅤ mob client test technique: state transite <br clear=""/>
@@ -40,7 +41,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 
 **Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
-Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*
+
 
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
