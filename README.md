@@ -33,7 +33,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 ㅤㅤ mob client test technique: state transite <br clear=""/>
 ㅤ- Non-functional testing of interface of mulitplatfom apps :<br clear=""/> 
 ㅤㅤ web client test types: UI, UX, cross-browsing, localization, security <br clear=""/>
-ㅤㅤ mob client test types: installation, perfromance, UI potrait state transition, interference immunity <br clear=""/>
+ㅤㅤ mob client test types: installation, performance, UI potrait state transition, interference immunity <br clear=""/>
 ㅤ- SQL join based requests <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
 
