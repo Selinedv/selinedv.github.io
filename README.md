@@ -13,7 +13,7 @@
 **About** <br clear=""/>
 ㅤ- English B2 <br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear=""/>
-ㅤ- Web apps basic level automaton: [BAS](https://youtu.be/4l94BWbky_o), [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
+ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o), [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
 **Experience** <br clear=""/>
 Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
