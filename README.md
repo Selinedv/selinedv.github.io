@@ -29,15 +29,14 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 
 **Practice:** <br clear=""/>
 Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
-ㅤ- Functional testing of logic & interface of mulitplatfom apps :<br clear=""/> 
-ㅤㅤ web client test technique: state transite, equivalence class partitioning, Boundary Values, Decision Table, Pairwise <br clear=""/>
-ㅤㅤ mob client test technique: state transite <br clear=""/>
-ㅤ- Non-functional testing of interface of mulitplatfom apps :<br clear=""/> 
-ㅤㅤ web client test types: UI, UX, cross-browsing, localization, security <br clear=""/>
-ㅤㅤ mob client test types: installation, performance, UI potrait state transition, interference immunity <br clear=""/>
-ㅤ- SQL join based requests <br clear=""/>
+ㅤ- Functional testing:<br clear=""/> 
+ㅤㅤ web / b.box test tech: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
+ㅤㅤ mob / b.box client test tech: state transite <br clear=""/>
+ㅤ- Non-functional testing:<br clear=""/> 
+ㅤㅤ web / b.box test types: UI, UX, cross-browsing, localization, security <br clear=""/>
+ㅤㅤ mob / b.box test types: installation, performance, UI/UX modes, interference immunity <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
-
+ㅤ- SQL join based requests <br clear=""/>
 
 **Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
 
