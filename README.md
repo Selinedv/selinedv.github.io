@@ -47,6 +47,7 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 **Extras**:
 EPAM: Software Testing Introduction
+EPAM: Diplomatic English
 
 ***
 
