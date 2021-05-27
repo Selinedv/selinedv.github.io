@@ -37,7 +37,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
 ㅤ- SQL join based requests <br clear=""/>
 
-**Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio.
+**Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Markdown.
 
 
 
