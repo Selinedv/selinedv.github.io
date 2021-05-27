@@ -1,13 +1,14 @@
-<div style="background-color: #000000; box-sizing: border-box;">
-## Selin Dmitry Vladimirovich 
-
+## Selin Dmitry Vladimirovich
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
 ### ㅤ**Junior QC Engineer** 
-ㅤ**Phone:** +7(926)350-80-05<br clear=""/>
-ㅤ**Mail:** Selinedv@gmail.com <br clear=""/>
-ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear=""/>
-ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear=""/>
+ㅤ**Phone:** +7(926)350-80-05<br clear="">
+ㅤ**Mail:** Selinedv@gmail.com <br clear="">
+ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="">
+ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="">
+
+ <span style="color:red"> RED TEXT </span>
+ 
 
 **About** <br clear=""/>
 ㅤ- English B2 <br clear=""/>
