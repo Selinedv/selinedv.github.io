@@ -1,4 +1,4 @@
-
+<div style="background-color: #000000; box-sizing: border-box;">
 ## Selin Dmitry Vladimirovich 
 
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" />  <cut/>
