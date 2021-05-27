@@ -55,25 +55,27 @@ EPAM: Software Testing Introduction <br clear=""/>
 Customer manager (LED programmable devices)<br clear=""/> 
 -Build up mutual long term relations with partners and clients<br clear=""/> 
 -Processing of requests and sales funnel<br clear=""/> 
--IT Support, Jira trackerㅤ<br clear=""/> 
-Achives: know how to deliver the value, improve problemsolving skills with warranty(non) cases 
+-IT Support, Jira support trackerㅤ<br clear=""/> 
+Achives: developed problem solving skills, know how to deliver the value of limited demand product  
 
 04/18 - 08/19, _Superwave Group (Distribution)_ <br clear=""/>
 Business Development Manager (UPS)<br clear=""/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear=""/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear=""/>
 -Develop mutually beneficial partnership with partners<br clear=""/>
+Achives: meet KPI, build-up partnership with Gazpromneft, Fosagro
 
 05/14 - 12/17, _Business Fabric (Resale, Distribution)_ <br clear=""/>
 Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear=""/>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear=""/>
 -Compile tender technical specifications and tender application documents <br clear=""/>
 -Develop mutually beneficial partnership<br clear=""/>
+Achives: meet KPI, build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.
 
 02/12 - 02/14, _Superwave Group (Distribution)_ <br clear=""/>
 Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
-Achives: 
+Achives: meet KPI on sale out, increase of turnover due to investment in presale activity
 
