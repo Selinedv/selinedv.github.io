@@ -28,10 +28,10 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 
 **Practice:** <br clear=""/>
 Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
-ㅤ- Functional testing / b.box:<br clear=""/> 
-ㅤㅤ web test tech: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
-ㅤㅤ mob client test tech: state transite <br clear=""/>
-ㅤ- Non-functional testing / b.box: :<br clear=""/> 
+ㅤ- Functional testing via black box approach:<br clear=""/> 
+ㅤㅤ web test techniques: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
+ㅤㅤ mob client test tech: state-transite <br clear=""/>
+ㅤ- Non-functional testing via black box approach: :<br clear=""/> 
 ㅤㅤ web test types: UI, UX, cross-browsing, localization, security <br clear=""/>
 ㅤㅤ mob test types: installation, performance, UI/UX modes, interference immunity <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
