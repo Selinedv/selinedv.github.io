@@ -77,5 +77,5 @@ Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
-Achives: meet KPI on sale out, increase of turnover due to investment in presale activity
+Achives: meet KPI on sale out, increase of turnover due to investment into presale activity
 
