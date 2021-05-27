@@ -7,9 +7,6 @@
 ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="">
 ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="">
 
- <span style="color:red"> RED TEXT </span>
- 
-
 **About** <br clear=""/>
 ㅤ- English B2 <br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear=""/>
@@ -39,8 +36,6 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 ㅤ- SQL join based requests <br clear=""/>
 
 **Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Markdown.
-
-
 
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
