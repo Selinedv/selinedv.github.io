@@ -5,7 +5,7 @@
 ㅤ**Phone:** +7(926)350-80-05<br clear="">
 ㅤ**Mail:** Selinedv@gmail.com <br clear="">
 ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="">
-ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="">
+ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear=""><br clear="">
 
 **About** <br clear=""/>
 ㅤ- English B2 <br clear=""/>
