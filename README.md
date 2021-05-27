@@ -27,7 +27,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 
 **Practice:** <br clear=""/>
-Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
+ㅤPet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
 ㅤ- Functional testing via black box approach:<br clear=""/> 
 ㅤㅤ web test techniques: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
 ㅤㅤ mob client test tech: state-transite <br clear=""/>
@@ -37,7 +37,7 @@ Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндек�
 ㅤ- API validation / API requests <br clear=""/>
 ㅤ- SQL join based requests <br clear=""/>
 
-**Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Photoshop.
+**Skills**: Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio.
 
 
 
@@ -46,7 +46,6 @@ RosNOU, Lingustics, Interpreter, 2009.
 
 **Extras**: <br clear=""/>
 EPAM: Software Testing Introduction <br clear=""/>
-EPAM: Diplomatic English
 
 ***
 
