@@ -56,6 +56,7 @@ Customer manager (LED programmable devices)<br clear=""/>
 -Build up mutual long term relations with partners and clients<br clear=""/> 
 -Processing of requests and sales funnel<br clear=""/> 
 -IT Support, Jira trackerㅤ<br clear=""/> 
+Achives: know how to deliver the value, improve problemsolving skills with warranty(non) cases 
 
 04/18 - 08/19, _Superwave Group (Distribution)_ <br clear=""/>
 Business Development Manager (UPS)<br clear=""/>
@@ -74,5 +75,5 @@ Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
-
+Achives: 
 
