@@ -12,9 +12,10 @@
 ㅤ- English [~ B2](https "Lingusictics, 2009") <br clear=""/>
 ㅤ- Awareness of [x86 architecture](https "presale of pc, laptop, server") <br clear=""/>
 ㅤ
+<a href="http://example.com/" target="_blank">example</a>
 
 **Experience** <br clear=""/>
-Yandex.Practicum: [11/20 - 04/21](https://github.com/Selinedv/selinedv.github.io/raw/main/Dmitry%20Selin_20212QA00338.pdf "Click to load")  <br clear=""/>
+<a href="https://github.com/Selinedv/selinedv.github.io/raw/main/Dmitry%20Selin_20212QA00338.pdf" target="_blank">Yandex.Practicum: 11/20 - 04/21</a>  <br clear=""/> 
 **Training Course: QA Engineer** <br clear=""/>
 
 **Can do list:** <br clear=""/>
