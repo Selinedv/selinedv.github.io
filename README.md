@@ -8,17 +8,13 @@
   <font size="3" color="#6495ED" face="Trebuchet MS">selinedv@gmail.com</font> <br clear="">
 ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN")</font> <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load") </font> <br clear=""> <br clear="">
-
-
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font><br clear="">
 ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
 ㅤ- English ~ B2<br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear=""><br clear="">
-
 <font size="3" color="A9A9A9" face="Trebuchet MS"><b>Experience</b></font><br clear="">
 Yandex.Practicum: 11/20 - 04/21 <br clear=""/> 
 Training Course: QA Engineer <br clear="">
-
 <font size="3" color="696969" face="Trebuchet MS"><b>Can do list:</b></font><br clear=""/>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
 ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
@@ -26,7 +22,6 @@ Training Course: QA Engineer <br clear="">
 ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>
 ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
-
 <font size="3" color="696969" face="Trebuchet MS"><b>Practice:</b></font><br clear=""/>
 Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
 Functional testing, black box:<br clear=""/> 
