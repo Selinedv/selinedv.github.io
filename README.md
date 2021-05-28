@@ -1,9 +1,8 @@
 <font size="5" color="778899" face="Trebuchet MS"> <b>Selin Dmitry Vladimirovich</b> </font> <br clear="side"/>
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" /> <cut/>
-
-ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font>
-ㅤ**Phone:**<font size="3" color="#6495ED" face="Trebuchet MS"> +7(926)350-80-05</font> 
-ㅤ**Mail:**<font size="3" color="#6495ED" face="Trebuchet MS"> selinedv@gmail.com</font>
+ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font><br clear="">
+ㅤ**Phone:**<font size="3" color="#6495ED" face="Trebuchet MS"> +7(926)350-80-05</font> <br clear="">
+ㅤ**Mail:**<font size="3" color="#6495ED" face="Trebuchet MS"> selinedv@gmail.com</font><br clear="">
 ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
@@ -21,7 +20,7 @@ Training Course: QA Engineer <br clear="">
 ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 <font size="3" color="696969" face="Trebuchet MS"><b>Practice:</b></font>
-Pet Projects:Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси <br clear=""/>
+Pet Projects: Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси <br clear=""/>
 Functional testing, black box:<br clear=""/> 
 ㅤㅤ web test techniques: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
 ㅤㅤ mob client test tech: state-transite <br clear=""/>
