@@ -37,7 +37,7 @@ EPAM: Software Testing Introduction <br clear="">
 
 ***
 
-<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font>
+<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font><br clear="">
 **Customer manager (LED programmable devices)**<br clear=""> 
 -Build up mutual long term relations with international partners and clients<br clear=""> 
 -Processing of requests via sales funnel<br clear=""> 
