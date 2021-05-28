@@ -37,27 +37,26 @@ EPAM: Software Testing Introduction <br clear="">
 
 ***
 
-<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font>
-<br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font>
-<font size="3" color="8FBC8F" face="Trebuchet MS">Customer manager (LED programmable devices)</font><br clear=""/> 
+<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font>
+<font size="3" color="8FBC8F" face="Trebuchet MS">Customer manager (LED programmable devices)</font>
 -Build up mutual long term relations with international partners and clients<br clear=""> 
 -Processing of requests via sales funnel<br clear=""> 
 -IT Support, Jira support tracker<br clear=""> 
 Achievments: developed problem solving skills, know how to deliver the value of limited demand product</font><br clear="">
 <font size="3" color="696969" face="Trebuchet MS">04/18 - 08/19 Superwave Group (Distribution)</font>
-<font size="3" color="8FBC8F" face="Trebuchet MS">Business Development Manager (UPS)</font><br clear=""/>
+<font size="3" color="8FBC8F" face="Trebuchet MS">Business Development Manager (UPS)</font>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear="">
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear="">
 -Develop mutually beneficial partnership with partners
 Achievments: build-up partnership with Gazpromneft, Fosagro<br clear=""/>
 <font size="3" color="696969" face="Trebuchet MS">05/14 - 12/17 Business Fabric (Resale, Distribution)</font>
-<font size="3" color="8FBC8F" face="Trebuchet MS"> Sales Manager > Key Account Manager (HP, Dell, Lenovo)</font><br clear=""/>
+<font size="3" color="8FBC8F" face="Trebuchet MS"> Sales Manager > Key Account Manager (HP, Dell, Lenovo)</font>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear="">
 -Compile tender technical specifications and tender application documents <br clear="">
 -Develop mutually beneficial partnership
 Achievments: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.<br clear="">
 <font size="3" color="696969" face="Trebuchet MS">02/12 - 02/14 Superwave Group (Distribution)</font>
-<font size="3" color="8FBC8F" face="Trebuchet MS">Product Manager (Lenovo ThinkPad/Center)</font><br clear=""/>
+<font size="3" color="8FBC8F" face="Trebuchet MS">Product Manager (Lenovo ThinkPad/Center)</font>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
