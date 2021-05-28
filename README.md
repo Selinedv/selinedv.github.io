@@ -2,15 +2,16 @@
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
 ### ㅤ**Junior QC Engineer** 
-ㅤ**Phone:** +7(926)350-80-05<br clear="">
-ㅤ**Mail:** Selinedv@gmail.com <br clear="">
-ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="">
-ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear=""><br clear="">
+ㅤ**Phone:** [+7(926)350-80-05](https "It is my phone number")<br clear="">
+ㅤ**Mail:** [selinedv@gmail.com](mailto:Selinedv@gmail.com "Would you mail me?") <br clear="">
+ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need a VPN for that") <br clear="">
+ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Click to load a ~ 500KB pdf") <br clear=""><br clear="">
 
 **About** <br clear=""/>
-ㅤ- English ~ B2 <br clear=""/>
-ㅤ- Awareness of x86 architecture <br clear=""/>
-ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o), [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
+ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube, client emailing, check for details in summary under the video; 1,25 speed recommended"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube, there is a way to auto-update a CV on hh website and antibot capture is workarounded")<br clear=""/>
+ㅤ- English [~ B2](https "Lingusictics, 2009") <br clear=""/>
+ㅤ- Awareness of [x86 architecture](https "presale of pc, laptop, server") <br clear=""/>
+ㅤ
 
 **Experience** <br clear=""/>
 Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
@@ -19,7 +20,7 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 **Can do list:** <br clear=""/>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
 ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>
-ㅤ- Compose API requests: GET, POST, PUT, DELETE <br clear=""/>
+ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
 ㅤ- Proxy / API sniff: mipmapping, breakpoints <br clear=""/>
 ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
