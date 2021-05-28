@@ -1,34 +1,33 @@
-## Selin Dmitry Vladimirovich
+<font size="5" color="A9A9A9" face="Verdana"> Selin Dmitry Vladimirovich </font> <br clear="side"/>
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" />  <cut/>
 
-### ㅤ**Junior QC Engineer** 
-ㅤ**Phone:** [+7(926)350-80-05](https "It is my phone number")<br clear="">
-ㅤ**Mail:** [selinedv@gmail.com](mailto:Selinedv@gmail.com "Would you mail me?") <br clear="">
+ㅤ<font size="4" color="A9A9A9" face="Verdana">Junior QC Engineer</font>
+
+ㅤ<font size="3" color="" face="Verdana">Phone:</font>[+7(926)350-80-05](https "It is my phone number") <br clear="">
+ㅤ**Mail:** [selinedv@gmail.com](mailto:Selinedv@gmail.com "Would you really mail me?") <br clear="">
 ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need a VPN for that") <br clear="">
-ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Click to load") <br clear=""><br clear="">
+ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load") <br clear=""><br clear="">
+
 
 **About** <br clear=""/>
-ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send letters to distinct names and mails in CRM. Details in video summary; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear=""/>
+ㅤ- Web apps *basic* automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
 ㅤ- English [~ B2](https "Lingusictics, 2009") <br clear=""/>
-ㅤ- Awareness of [x86 architecture](https "presale of pc, laptop, server") <br clear=""/>
-ㅤ
-<a href="http://example.com/" target="_blank">example</a>
-
-**Experience** <br clear=""/>
+ㅤ- Awareness of [x86 architecture](https "presale of pc, laptop, server") <br clear=""><br clear="">
+**Experience** <br clear="">
 <a href="https://github.com/Selinedv/selinedv.github.io/raw/main/Dmitry%20Selin_20212QA00338.pdf" target="_blank">Yandex.Practicum: 11/20 - 04/21</a>  <br clear=""/> 
-**Training Course: QA Engineer** <br clear=""/>
+**Training Course: QA Engineer** <br clear="">
 
 **Can do list:** <br clear=""/>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
-ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>
 ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
 ㅤ- Proxy / API sniff: mipmapping, breakpoints <br clear=""/>
+ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>ㅤ
 ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 
 **Practice:** <br clear=""/>
-ㅤPet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
-Functional testing via black box approach:<br clear=""/> 
+Pet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
+Functional testing, black box:<br clear=""/> 
 ㅤㅤ web test techniques: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
 ㅤㅤ mob client test tech: state-transite <br clear=""/>
 Non-functional testing via black box approach: :<br clear=""/> 
@@ -42,8 +41,7 @@ Non-functional testing via black box approach: :<br clear=""/>
 **Education**: 
 RosNOU, Lingustics, Interpreter, 2009.
 
-**Extras**: <br clear=""/>
-EPAM: Software Testing Introduction <br clear=""/>
+**Extras**: EPAM: Software Testing Introduction <br clear=""/>
 
 ***
 
