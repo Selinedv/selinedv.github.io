@@ -41,19 +41,19 @@ EPAM: Software Testing Introduction <br clear="">
 **Customer manager (LED programmable devices)**<br clear=""> 
 -Build up mutual long term relations with international partners and clients<br clear=""> 
 -Processing of requests via sales funnel<br clear=""> 
--IT Support, Jira support tracker<br clear=""> 
+-IT Support, Jira support tracker<br clear="">
 Achievements: developed problem solving skills, know how to deliver the value of limited demand product<br clear="">
 <font size="3" color="696969" face="Trebuchet MS">04/18 - 08/19 Superwave Group (Distribution)</font>
 **Business Development Manager (UPS)**<br clear=""> 
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear="">
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear="">
--Develop mutually beneficial partnership with partners
+-Develop mutually beneficial partnership with partners<br clear="">
 Achievements: build-up partnership with Gazpromneft, Fosagro<br clear=""/>
 <font size="3" color="696969" face="Trebuchet MS">05/14 - 12/17 Business Fabric (Resale, Distribution)</font>
 **Sales Manager > Key Account Manager (HP, Dell, Lenovo)**<br clear="">
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear="">
 -Compile tender technical specifications and tender application documents <br clear="">
--Develop mutually beneficial partnership
+-Develop mutually beneficial partnership<br clear="">
 Achievements: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.<br clear="">
 <font size="3" color="696969" face="Trebuchet MS">02/12 - 02/14 Superwave Group (Distribution)</font>
 **Product Manager (Lenovo ThinkPad/Center)**<br clear=""> 
