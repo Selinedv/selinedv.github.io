@@ -7,20 +7,20 @@
 ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
-ㅤ- Enjoy to automate web apps: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
-ㅤ- Watch foreign fiction from VPN dependent sources (English ~B2) <br clear=""/>
-ㅤ- Aware of x86 architecture (hardware) <br clear="">
+Enjoy to automate web apps: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
+Watch foreign fiction from VPN dependent sources (English ~B2) <br clear=""/>
+Aware of x86 architecture (hardware) <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Summary:</b></font>
-ㅤ- Development of QC artifacts: Check List, Test case, Bug report <br clear=""/>
-ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
-ㅤ- Proxy / sniff: mipmapping, breakpoints <br clear=""/>
-ㅤ- Utilize DevTools: Elements, Network <br clear=""/>
-ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
-ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
-ㅤ- Customer support experience<br clear=""/>
-ㅤ- Problem solving skills<br clear=""/>
+Development of QC artifacts: Check List, Test case, Bug report <br clear=""/>
+Post API requests: GET, POST, PUT, DELETE <br clear=""/>
+Proxy / sniff: mipmapping, breakpoints <br clear=""/>
+Utilize DevTools: Elements, Network <br clear=""/>
+Request data PostgreSQL: OUTER JOIN <br clear=""/>
+Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
+Customer support experience<br clear=""/>
+Problem solving skills<br clear=""/>
 <font size="3" color="696969" face="Trebuchet MS"><b>Practice details:</b></font>
 Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
 Яндекс.Самокат, aim of test: to analyse requiremets, to test design web, mobile, API &  integration.     
