@@ -5,16 +5,16 @@
 ㅤ**Phone:** [+7(926)350-80-05](https "It is my phone number")<br clear="">
 ㅤ**Mail:** [selinedv@gmail.com](mailto:Selinedv@gmail.com "Would you mail me?") <br clear="">
 ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need a VPN for that") <br clear="">
-ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Click to load a ~ 500KB pdf") <br clear=""><br clear="">
+ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Click to load") <br clear=""><br clear="">
 
 **About** <br clear=""/>
-ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube, client emailing, check for details in summary under the video; 1,25 speed recommended"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube, there is a way to auto-update a CV on hh website and antibot capture is workarounded")<br clear=""/>
+ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send letters to distinct names and mails in CRM. Details in video summary; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear=""/>
 ㅤ- English [~ B2](https "Lingusictics, 2009") <br clear=""/>
 ㅤ- Awareness of [x86 architecture](https "presale of pc, laptop, server") <br clear=""/>
 ㅤ
 
 **Experience** <br clear=""/>
-Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
+Yandex.Practicum: [11/20 - 04/21](https://github.com/Selinedv/selinedv.github.io/raw/main/Dmitry%20Selin_20212QA00338.pdf "Click to load")  <br clear=""/>
 **Training Course: QA Engineer** <br clear=""/>
 
 **Can do list:** <br clear=""/>
