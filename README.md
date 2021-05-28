@@ -1,8 +1,8 @@
 <font size="5" color="778899" face="Trebuchet MS"> <b>Selin Dmitry Vladimirovich</b> </font> <br clear="side"/>
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" /> <cut/>
 ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font><br clear="">
-ㅤ**Phone:**<font size="2" color="#6495ED" face="arial"> +7(926)350-80-05</font> <br clear="">
-ㅤ**Mail:**<font size="2" color="#6495ED" face="arial"> selinedv@gmail.com</font><br clear="">
+ㅤ**Phone:** +7(926)350-80-05 <br clear="">
+ㅤ**Mail:** selinedv@gmail.com <br clear="">
 ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
@@ -10,8 +10,7 @@
 ㅤ- English ~ B2<br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear="">
 <font size="3" color="A9A9A9" face="Trebuchet MS"><b>Experience</b></font>
-Yandex.Practicum: 11/20 - 04/21 <br clear=""/> 
-Training Course: QA Engineer <br clear="">
+Yandex.Practicum: Training Course: QA Engineer <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Can do list:</b></font>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
 ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
