@@ -28,12 +28,9 @@ Approaches: <br clear=""/>
 ㅤ- Web. Functional testing, black box test techniques: state-transite, equivalence class partitioning, boundary values, decision table, pairwise. Non-functional testing: UI, UX, cross-browsing, localization, security <br clear=""/>
 ㅤ- Mobile. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
 ㅤ- Localization of bugs via integration of API requests, SQL requests, log greping <br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Tools:</b></font>
- DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Education:</b></font> 
-RosNOU, Lingustics, Interpreter, 2009.<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Extras:</b></font>
-EPAM: Software Testing Introduction <br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Tools:</b></font>DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Education:</b></font>RosNOU, Lingustics, Interpreter, 2009.<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Extras:</b></font>EPAM: Software Testing Introduction <br clear="">
 
 ***
 
