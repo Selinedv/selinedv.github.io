@@ -2,12 +2,10 @@
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" /> <cut/>
 
 ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font><br clear="">
-ㅤ**Phone:**
-  <font size="3" color="#6495ED" face="Trebuchet MS">+7(926)350-80-05</font> <br clear="">
-ㅤ**Mail:**
-  <font size="3" color="#6495ED" face="Trebuchet MS">selinedv@gmail.com</font> <br clear="">
-ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN")</font> <br clear="">
-ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load") </font> <br clear=""> <br clear="">
+ㅤ**Phone:**<font size="3" color="#6495ED" face="Trebuchet MS"> +7(926)350-80-05</font> <br clear="">
+ㅤ**Mail:**<font size="3" color="#6495ED" face="Trebuchet MS"> selinedv@gmail.com</font> <br clear="">
+ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
+ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font><br clear="">
 ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
 ㅤ- English ~ B2<br clear=""/>
