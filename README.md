@@ -26,7 +26,7 @@ Problem solving skills<br clear=""/>
 Яндекс.Самокат, aim of test: to analyse requiremets, to test design web, mobile, API &  integration.     
 Approaches: <br clear=""/>
 ㅤ- Web. Functional testing, black box test techniques: state-transite, equivalence class partitioning, boundary values, decision table, pairwise. Non-functional testing: UI, UX, cross-browsing, localization, security <br clear=""/>
-ㅤ- Mob. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
+ㅤ- Mobile. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
 ㅤ- Localization of bugs via integration of API requests, SQL requests, log greping <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Tools:</b></font>
  DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
@@ -37,31 +37,31 @@ EPAM: Software Testing Introduction <br clear="">
 
 ***
 
-<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font>
+<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear="">
 <font size="3" color="696969" face="Trebuchet MS">09/20 - */\* Ignis Pixel (International Online Store) </font>
 Customer manager (LED programmable devices)<br clear=""/> 
 -Build up mutual long term relations with international partners and clients<br clear=""/> 
 -Processing of requests via sales funnel<br clear=""/> 
 -IT Support, Jira support trackerㅤ<br clear=""/> 
-Achives: developed problem solving skills, know how to deliver the value of limited demand product  
+<font size="3" color="8FBC8F" face="Trebuchet MS">Achievments: developed problem solving skills, know how to deliver the value of limited demand product</font>  
 
 <font size="3" color="696969" face="Trebuchet MS">04/18 - 08/19, Superwave Group (Distribution)</font>
 Business Development Manager (UPS)<br clear=""/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear=""/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear=""/>
 -Develop mutually beneficial partnership with partners<br clear=""/>
-Achives: build-up partnership with Gazpromneft, Fosagro
+<font size="3" color="8FBC8F" face="Trebuchet MS">Achievments: build-up partnership with Gazpromneft, Fosagro</font>
 
 <font size="3" color="696969" face="Trebuchet MS"> 05/14 - 12/17 Business Fabric (Resale, Distribution) </font>
 Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear=""/>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear=""/>
 -Compile tender technical specifications and tender application documents <br clear=""/>
 -Develop mutually beneficial partnership<br clear=""/>
-Achives: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.
+<font size="3" color="8FBC8F" face="Trebuchet MS">Achievments: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.</font>
 
 <font size="3" color="696969" face="Trebuchet MS"> 02/12 - 02/14 Superwave Group (Distribution) </font>
 Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
-Achives: to meet KPI, increase of turnover due to investment into presale activity
+<font size="3" color="8FBC8F" face="Trebuchet MS">Achievments: to meet KPI, increase of turnover due to investment into presale activity</font>
