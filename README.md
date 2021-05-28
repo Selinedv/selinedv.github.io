@@ -4,11 +4,11 @@
 ### ㅤ**Junior QC Engineer** 
 ㅤ**Phone:** +7(926)350-80-05<br clear="">
 ㅤ**Mail:** Selinedv@gmail.com <br clear="">
-ㅤ**Resume:** [Resume Rus](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear="">
-ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear=""><br clear="">
+ㅤ**Linked in:** [Linked in](https://linkedin.com/in/dmitry-selin-a71085211 "You need VPN for that") <br clear="">
+ㅤ**Resume:** [На русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee.pdf "Download 500KB pdf file") <br clear=""><br clear="">
 
 **About** <br clear=""/>
-ㅤ- English B2 <br clear=""/>
+ㅤ- English ~ B2 <br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear=""/>
 ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o), [puppeteer](https://youtu.be/hSY4BcvlmOI "Tiny U-tube video of how to autoupdate CV on hh.ru")ㅤ
 
@@ -26,10 +26,10 @@ Yandex.Practicum: 11/20 - 04/21  <br clear=""/>
 
 **Practice:** <br clear=""/>
 ㅤPet Projects: *Яндекс.Самокат, Яндекс.Метро, Яндекс.Маршруты, Яндекс.Прилавок, Яндекс.Такси*<br clear=""/>
-ㅤ- Functional testing via black box approach:<br clear=""/> 
+Functional testing via black box approach:<br clear=""/> 
 ㅤㅤ web test techniques: state-transite, equivalence class part., boundary values, decision table, pairwise <br clear=""/>
 ㅤㅤ mob client test tech: state-transite <br clear=""/>
-ㅤ- Non-functional testing via black box approach: :<br clear=""/> 
+Non-functional testing via black box approach: :<br clear=""/> 
 ㅤㅤ web test types: UI, UX, cross-browsing, localization, security <br clear=""/>
 ㅤㅤ mob test types: installation, performance, UI/UX modes, interference immunity <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
@@ -59,19 +59,18 @@ Business Development Manager (UPS)<br clear=""/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear=""/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear=""/>
 -Develop mutually beneficial partnership with partners<br clear=""/>
-Achives: meet KPI, build-up partnership with Gazpromneft, Fosagro
+Achives: build-up partnership with Gazpromneft, Fosagro
 
 05/14 - 12/17, _Business Fabric (Resale, Distribution)_ <br clear=""/>
 Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear=""/>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear=""/>
 -Compile tender technical specifications and tender application documents <br clear=""/>
 -Develop mutually beneficial partnership<br clear=""/>
-Achives: meet KPI, build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.
+Achives: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.
 
 02/12 - 02/14, _Superwave Group (Distribution)_ <br clear=""/>
 Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
 -Form distinct inventory stock based on ABC and competitors' stock <br clear=""/>
-Achives: meet KPI on sale out, increase of turnover due to investment into presale activity
-
+Achives: to meet KPI, increase of turnover due to investment into presale activity
