@@ -6,8 +6,8 @@
   <font size="3" color="#6495ED" face="Trebuchet MS">+7(926)350-80-05</font> <br clear="">
 ㅤ**Mail:**
   <font size="3" color="#6495ED" face="Trebuchet MS">selinedv@gmail.com</font> <br clear="">
-ㅤ**LinkedIn:** **[ LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN")**</font> <br clear="">
-ㅤ**Resume:** **[на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")** </font> <br clear=""><br clear="">
+ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN")</font> <br clear="">
+ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load") </font> <br clear=""> <br clear="">
 
 
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font><br clear="">
@@ -23,7 +23,7 @@ Training Course: QA Engineer <br clear="">
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
 ㅤ- Post API requests: GET, POST, PUT, DELETE <br clear=""/>
 ㅤ- Proxy / API sniff: mipmapping, breakpoints <br clear=""/>
-ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>ㅤ
+ㅤ- Utilize DevTools: Elements, Network, Toolbar <br clear=""/>
 ㅤ- Request data PostgreSQL: OUTER JOIN <br clear=""/>
 ㅤ- Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 
@@ -37,11 +37,11 @@ Non-functional testing via black box approach: :<br clear=""/>
 ㅤㅤ mob test types: installation, performance, UI/UX modes, interference immunity <br clear=""/>
 ㅤ- API validation / API requests <br clear=""/>
 ㅤ- SQL join based requests <br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Skills:</b></font>
+<font size="3" color="696969" face="Trebuchet MS"><b>Skills: </b></font>
 Functional testing, Bug reporting, DevTools, Postman, Charles, PostgreSQL, Puppeteer, Browser Automaton Studio, AndroidStudio, Markdown.<br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Education:</b></font> 
+<font size="3" color="696969" face="Trebuchet MS"><b>Education: </b></font> 
 RosNOU, Lingustics, Interpreter, 2009.<br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Extras</b></font>
+<font size="3" color="696969" face="Trebuchet MS"><b>Extras: </b></font>
 EPAM: Software Testing Introduction <br clear=""/>
 
 ***
