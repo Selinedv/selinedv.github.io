@@ -3,6 +3,7 @@
 ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font><br clear="">
 ㅤ**Phone:** +7(926)350-80-05 <br clear="">
 ㅤ**Mail:** selinedv@gmail.com <br clear="">
+ㅤ**Age:** 37 <br clear="">
 ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
