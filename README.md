@@ -13,7 +13,7 @@ Aware of x86 architecture (hardware) <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Summary:</b></font>
-Development of QC artifacts: Check List, Test case, Bug report <br clear=""/>
+Development of test artifacts: Check List, Test case, Bug report <br clear=""/>
 Post API requests: GET, POST, PUT, DELETE <br clear=""/>
 Proxy / sniff: mipmapping, breakpoints <br clear=""/>
 Utilize DevTools: Elements, Network <br clear=""/>
@@ -22,8 +22,8 @@ Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 Customer support experience<br clear=""/>
 Problem solving skills<br clear=""/>
 <font size="3" color="696969" face="Trebuchet MS"><b>Practice details:</b></font>
-Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
-Яндекс.Самокат, aim of test: to analyse requiremets, to test design web, mobile, API &  integration.     
+Pets: Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
+Яндекс.Самокат. Aim of test: to analyse requiremets, to perfrom design of web, mobile, API, basic integration testing.     
 Approaches: <br clear=""/>
 ㅤ- Web. Functional testing, black box test techniques: state-transite, equivalence class partitioning, boundary values, decision table, pairwise. Non-functional testing: UI, UX, cross-browsing, localization, security <br clear=""/>
 ㅤ- Mobile. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
