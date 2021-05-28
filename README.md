@@ -10,7 +10,7 @@
 ㅤ- Web apps basic automaton: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
 ㅤ- English ~ B2<br clear=""/>
 ㅤ- Awareness of x86 architecture <br clear="">
-<font size="3" color="A9A9A9" face="Trebuchet MS"><b>Experience</b></font>
+<font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Can do list:</b></font>
 ㅤ- Create artifacts: Checklist, Test case, Bug report <br clear=""/>
@@ -38,29 +38,30 @@ EPAM: Software Testing Introduction <br clear="">
 
 ***
 
-<font size="3" color="A9A9A9" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear="">
-09/20 - */\*, _Ignis Pixel (International Online Store)_  <br clear=""/>
+<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear="">
+
+<font size="3" color="696969" face="Trebuchet MS">09/20 - */\* Ignis Pixel (International Online Store) </font>
 Customer manager (LED programmable devices)<br clear=""/> 
 -Build up mutual long term relations with partners and clients<br clear=""/> 
 -Processing of requests and sales funnel<br clear=""/> 
 -IT Support, Jira support trackerㅤ<br clear=""/> 
 Achives: developed problem solving skills, know how to deliver the value of limited demand product  
 
-04/18 - 08/19, _Superwave Group (Distribution)_ <br clear=""/>
+<font size="3" color="696969" face="Trebuchet MS">04/18 - 08/19, Superwave Group (Distribution)</font>
 Business Development Manager (UPS)<br clear=""/>
 -Process and analyze tender procedures via procurement portals (EIS) and CRM <br clear=""/>
 -Compile tender tech documentation, provide technical advice and support for sale team <br clear=""/>
 -Develop mutually beneficial partnership with partners<br clear=""/>
 Achives: build-up partnership with Gazpromneft, Fosagro
 
-05/14 - 12/17, _Business Fabric (Resale, Distribution)_ <br clear=""/>
+<font size="3" color="696969" face="Trebuchet MS"> 05/14 - 12/17 Business Fabric (Resale, Distribution) </font> <br clear=""/>
 Sales Manager > Key Account Manager (HP, Dell, Lenovo) <br clear=""/>
 -Participate tender prоcedures via partners procurement systems / tender portal (EIS) <br clear=""/>
 -Compile tender technical specifications and tender application documents <br clear=""/>
 -Develop mutually beneficial partnership<br clear=""/>
 Achives: build-up partnership with Gazpromneft, Fosagro, Alrosa, Vimpelcom.
 
-02/12 - 02/14, _Superwave Group (Distribution)_ <br clear=""/>
+<font size="3" color="696969" face="Trebuchet MS"> 02/12 - 02/14 Superwave Group (Distribution) </font> <br clear=""/>
 Product Manager (Lenovo ThinkPad/Center) <br clear=""/>
 -Provide presale expertize, compile tender technical specifications for sale team <br clear=""/>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br clear=""/>
