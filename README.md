@@ -8,11 +8,11 @@
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
 Enjoy to automate web apps: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
-Watch foreign fiction from VPN dependent sources (English ~B2) <br clear=""/>
+Fond of foreign fiction (English B1/B2) <br clear=""/>
 Aware of x86 architecture (hardware) <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Summary:</b></font>
+<font size="3" color="696969" face="Trebuchet MS"><b>Summary</b></font>
 Development of test artifacts: Check List, Test case, Bug report <br clear=""/>
 Post API requests: GET, POST, PUT, DELETE <br clear=""/>
 Proxy / sniff: mipmapping, breakpoints <br clear=""/>
@@ -21,16 +21,16 @@ Request data PostgreSQL: OUTER JOIN <br clear=""/>
 Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 Customer support experience<br clear=""/>
 Problem solving skills<br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Practice details:</b></font>
+<font size="3" color="696969" face="Trebuchet MS"><b>Practice details</b></font>
 Pets: Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
-Яндекс.Самокат. Aim of test: to analyse requiremets, to perfrom design of web, mobile, API, basic integration testing.     
+Яндекс.Самокат. Test aims: to analyse requiremets, to perfrom test design of web, mobile, API, basic integration testing.     
 Approaches: <br clear=""/>
 ㅤ- Web. Functional testing, black box test techniques: state-transite, equivalence class partitioning, boundary values, decision table, pairwise. Non-functional testing: UI, UX, cross-browsing, localization, security <br clear=""/>
 ㅤ- Mobile. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
 ㅤ- Localization of bugs via integration of API requests, SQL requests, log greping <br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Tools:</b></font>DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Education:</b></font>RosNOU, Lingustics, Interpreter, 2009.<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Extras:</b></font>EPAM: Software Testing Introduction <br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Tools</b></font>DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Education</b></font>RosNOU, Lingustics, Interpreter, 2009.<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Extras</b></font>EPAM: Software Testing Introduction <br clear=""> EPAM: Version Control with Git <br clear="">
 
 ***
 
