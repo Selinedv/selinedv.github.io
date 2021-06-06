@@ -21,7 +21,7 @@ Request data PostgreSQL: OUTER JOIN <br clear=""/>
 Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
 Customer support experience<br clear=""/>
 Problem solving skills<br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Practice details</b></font>
+<font size="3" color="696969" face="Trebuchet MS"><b>Practice</b></font>
 Pets: Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
 Яндекс.Самокат. Test aims: to analyse requiremets, to perfrom test design of web, mobile, API, basic integration testing.     
 Approaches: <br clear=""/>
