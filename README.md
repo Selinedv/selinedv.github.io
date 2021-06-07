@@ -9,7 +9,7 @@
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
 Enjoy to automate web apps: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
 Fond of foreign fiction (English B1/B2) <br clear=""/>
-Aware of x86 architecture (hardware hardware) <br clear="">
+Aware of x86 architecture (hardware) <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Summary</b></font>
