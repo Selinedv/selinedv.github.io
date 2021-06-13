@@ -1,40 +1,42 @@
 <font size="5" color="778899" face="Trebuchet MS"> <b>Selin Dmitry Vladimirovich</b> </font> <br clear="side"/>
 <img src="https://raw.githubusercontent.com/Selinedv/selinedv.github.io/main/smallphoto.jpg" align="left" alt="image" width="125" /> <cut/>
+
 ㅤ<font size="4" color="778899" face="Trebuchet MS"><b>Junior QC Engineer</b></font><br clear="">
+
 ㅤ**Phone:** +7(926)350-80-05 <br clear="">
 ㅤ**Mail:** selinedv@gmail.com <br clear="">
 ㅤ**Age:** 37 <br clear="">
-ㅤ**LinkedIn:** [LinkedIn](https://linkedin.com/in/dmitry-selin-a71085211 "Click to access, care VPN") <br clear="">
-ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear="">
+ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin%20QC%20trainee____.pdf "Click to load")<br clear=""> <br clear=""> <br clear="">
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
-Enjoy to automate web apps: [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Send promo letters to distinct e-mails. Details on algorithm is in summary under video; rec for 1,25 speed"), [puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded")<br clear="">
-Fond of foreign fiction (English B1/B2) <br clear=""/>
-Aware of x86 architecture (hardware) <br clear="">
+Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To automate daily routine via BAS and Puppeteer. To improve SQL awareness by sql-ex.ru (25 task).
+Customer support experience. Problem solving skills<br clear=""/>
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Summary</b></font>
-Development of test artifacts: Check List, Test case, Bug report <br clear=""/>
-Post API requests: GET, POST, PUT, DELETE <br clear=""/>
-Proxy / sniff: mipmapping, breakpoints <br clear=""/>
-Utilize DevTools: Elements, Network <br clear=""/>
-Request data PostgreSQL: OUTER JOIN <br clear=""/>
-Console: grep -R ^233.201.* ~/logs/bugs.txt > ~/my/bug.txt <br clear=""/>
-Customer support experience<br clear=""/>
-Problem solving skills<br clear=""/>
-<font size="3" color="696969" face="Trebuchet MS"><b>Practice</b></font>
-Pets: Яндекс.Самокат, ~.Метро, ~.Маршруты, ~.Прилавок, ~.Такси <br clear=""/>
-Яндекс.Самокат. Test aims: to analyse requiremets, to perfrom test design of web, mobile, API, basic integration testing.     
-Approaches: <br clear=""/>
-ㅤ- Web. Functional testing, black box test techniques: state-transite, equivalence class partitioning, boundary values, decision table, pairwise. Non-functional testing: UI, UX, cross-browsing, localization, security <br clear=""/>
-ㅤ- Mobile. Functional testing, black box test techniques: state-transite. Non-functional testing: installation, performance, UI/UX modes, interference immunity, screen orientation dependant. <br clear=""/>
-ㅤ- Localization of bugs via integration of API requests, SQL requests, log greping <br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Tools</b></font>DevTools, Postman, Charles, PostgreSQL, Puppeteer, AndroidStudio, Browser Automaton Studio, Markdown.<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Education</b></font>RosNOU, Lingustics, Interpreter, 2009.<br clear="">
+ㅤ- **Yandex Routes, web application**, [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Routes.Checklist_Cases.xlsx)<br clear="">
+Target: to test application logic and layout in multiplatform environment; to conduct testing backend dependan functions on frontend with backend non-implemented.<br clear=""> 
+Functional testing, design techniques: decision tables, boundary values and equivalence class partitioning, state-transite.<br clear="">
+Non-functional testing, design techniques: pairwise, types: cross-browser testing, UI, localization<br clear="">
+ㅤ- **Yandex Metro, mobile application**, [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Prilavok_Yandex.Metro_mobile.xlsx) <br clear=""> 
+Target: to test application according to predetermined checklist with Android Studio.<br clear=""> 
+Functional testing, logic and interface, design techniques: state-transite.<br clear="">
+Non-functional testing, cross-component testing, UI, interference immunity, installation <br clear="">
+ㅤ- **Yandex Scooter, front: web & mobile application, back: API, SQL**, [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Taxi.%20Mindmap_checklist_Cases.xlsx) <br clear="">
+Target: analyse requirements, conduct cross-platform testing, API testing, use SQL data and grep logs. <br clear="">
+Create artifacts: requirements analysis and mindmap<br clear="">
+Functional testing, web logic and interface, design techniques: boundary values and equivalence class partitioning, state-transite.<br clear="">
+Non-functional testing, web interface, design techniques: Figma maquettes, UI, UX, localization <br clear="">
+Functional testing, mobile logic and interface,  <br clear="">
+Non-functional testing, mobile logic and interface, Figma maquettes, UI, interference immunity <br clear="">
+Interoperability testing of mobile, web platfroms <br clear="">
+Validation of API requirements
+<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Tools</b></font>Functional & non functional testing; Bug reporting; DevTools:Elements, Network; Charles:breakpoints, mapping,; API:REST; PostgreSQL: join, union, subqueries; Bash: grep, pwd, ls; [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Details are in summary; rec for 1,25 speed"); [Puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded"); AndroidStudio, Visual Studio Code, Git: shh, add, commit, push, .ignore<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Education</b></font>RosNOU, Lingustics, Interpreter, 2009 <br clear=""> RosNOU Secondary Education, Jurist, 2014<br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Extras</b></font>EPAM: Software Testing Introduction <br clear=""> EPAM: Version Control with Git <br clear="">
 
 ***
 
-<font size="3" color="778899" face="Trebuchet MS"><b>Irrelevant experience</b></font><br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font><br clear="">
+<font size="3" color="778899" face="Trebuchet MS"><b>QA irrelevant experience</b></font><br clear=""><font size="3" color="696969" face="Trebuchet MS">09/20 - _/_ Ignis Pixel (International Online Store)</font><br clear="">
 **Customer manager (LED programmable devices)**<br clear=""> 
 -Build up mutual long term relations with international partners and clients<br clear=""> 
 -Processing of requests via sales funnel<br clear=""> 
