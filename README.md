@@ -7,7 +7,7 @@
 ㅤ**Age:** 37 <br clear="">
 ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin_CV_v9.pdf "Click to load")<br clear=""> 
 <font size="3" color="778899" face="Trebuchet MS"><b>About</b></font>
-Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To automate daily routine via BAS and Puppeteer frameworks. To improve SQL proficiency level by sql-ex.ru (25 task).Customer support experience.
+Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To automate daily routine via BAS and Puppeteer frameworks. To improve SQL proficiency level by sql-ex.ru. Customer support experience.
  <br clear=""/>
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
