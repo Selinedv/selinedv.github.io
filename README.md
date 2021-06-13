@@ -30,7 +30,7 @@ Target: analyse requirements, conduct cross-platform testing, API testing, use S
 -Validation of API requirements
 <br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Tools</b></font>Functional & non functional testing; Bug reporting; DevTools: Elements, Network; Charles: breakpoints; API: REST; PostgreSQL: join, union, subqueries; Bash: grep; [BAS](https://youtu.be/4l94BWbky_o "Click for Youtube. Details are in summary; rec for 1,25 speed"); [Puppeteer](https://youtu.be/hSY4BcvlmOI "Click for Youtube. Auto-update a CV on hh website; antibot capture is workarounded"); AndroidStudio, Visual Studio Code, Git: add, commit, push, .ignore<br clear="">
-<font size="3" color="696969" face="Trebuchet MS"><b>Education</b></font>RosNOU, Lingustics, Interpreter, 2009 <br clear=""> RosNOU Secondary Education, Jurist, 2014<br clear="">
+<font size="3" color="696969" face="Trebuchet MS"><b>Education</b></font>RosNOU, Lingustics, Interpreter, 2009 <br clear=""> RosNOU Secondary Education, Jurist, 2013<br clear="">
 <font size="3" color="696969" face="Trebuchet MS"><b>Extras</b></font>EPAM: Software Testing Introduction <br clear=""> EPAM: Version Control with Git <br clear="">
 
 ***
