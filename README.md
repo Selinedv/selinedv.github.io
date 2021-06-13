@@ -11,15 +11,15 @@ Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To aut
 Customer support experience. Problem solving skills<br clear=""/>
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
-<font size="3" color="696969" face="Trebuchet MS">Yandex Routes, web application, </font> [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Routes.Checklist_Cases.xlsx) <br clear=""> 
+__Yandex Routes, web application, [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Routes.Checklist_Cases.xlsx)__ <br clear=""> 
 Target: to test application logic and layout in multiplatform environment; to conduct testing backend dependan functions on frontend with backend non-implemented.<br clear=""> 
 -Functional testing, design techniques: decision tables, boundary values and equivalence class partitioning, state-transite.<br clear="">
 -Non-functional testing, design techniques: pairwise, types: cross-browser testing, UI, localization<br clear="">
-<font size="3" color="696969" face="Trebuchet MS">Yandex Metro, mobile application, </font> [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Prilavok_Yandex.Metro_mobile.xlsx)<br clear="">
+__Yandex Metro, mobile application,[click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Prilavok_Yandex.Metro_mobile.xlsx)__<br clear="">
 Target: to test application according to predetermined checklist with Android Studio.<br clear=""> 
 -Functional testing, logic and interface, design techniques: state-transite.<br clear="">
 -Non-functional testing, cross-component testing, UI, interference immunity, installation <br clear="">
-<font size="3" color="696969" face="Trebuchet MS">Yandex Scooter, front: web & mobile application, back: API, SQL, </font> [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Taxi.%20Mindmap_checklist_Cases.xlsx)<br clear="">
+__Yandex Scooter, front: web & mobile application, back: API, SQL, [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Taxi.%20Mindmap_checklist_Cases.xlsx)__<br clear="">
 Target: analyse requirements, conduct cross-platform testing, API testing, use SQL data and grep logs. <br clear="">
 -Create artifacts: requirements analysis and mindmap<br clear="">
 -Functional testing, web logic and interface, design techniques: boundary values and equivalence class partitioning, state-transite.<br clear="">
