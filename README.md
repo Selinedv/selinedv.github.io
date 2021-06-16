@@ -15,7 +15,7 @@ Yandex.Practicum: Training Course: QA Engineer <br clear="">
 Target: to test application logic and layout in multiplatform environment; to conduct testing backend dependan functions on frontend with backend non-implemented.<br clear=""> 
 -Functional testing, design techniques: decision tables, boundary values and equivalence class partitioning, state-transite.<br clear="">
 -Non-functional testing, design techniques: pairwise, types: cross-browser testing, UI, localization<br clear="">
-<br clear="">__Yandex Metro, mobile application,__ [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Prilavok_Yandex.Metro_mobile.xlsx)<br clear="">
+<br clear="">Yandex Metro, mobile application,__ [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Prilavok_Yandex.Metro_mobile.xlsx)<br clear="">
 Target: to test application according to predetermined checklist with Android Studio.<br clear=""> 
 -Functional testing, logic and interface, design techniques: state-transite.<br clear="">
 -Non-functional testing, cross-component testing, UI, interference immunity, installation <br clear="">
