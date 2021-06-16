@@ -11,7 +11,7 @@ Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To aut
  <br clear=""/>
 <font size="3" color="778899" face="Trebuchet MS"><b>Experience</b></font>
 Yandex.Practicum: Training Course: QA Engineer <br clear="">
-<br clear="">__Yandex Routes, web application,__ [click](https://github.com/Selinedv/selinedv.github.io/blob/main/Yandex.Routes.Checklist_Cases.xlsx) <br clear=""> 
+<br clear="">__Yandex Routes, web application <br clear=""> 
 Target: to test application logic and layout in multiplatform environment; to conduct testing backend dependan functions on frontend with backend non-implemented.<br clear=""> 
 -Functional testing, design techniques: decision tables, boundary values and equivalence class partitioning, state-transite.<br clear="">
 -Non-functional testing, design techniques: pairwise, types: cross-browser testing, UI, localization<br clear="">
