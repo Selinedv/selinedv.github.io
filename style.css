@@ -1,1 +1,33 @@
-
+body {
+    background-color: rgb(5, 5, 5);
+    font-family: Trebuchet MS;
+    color: rgb(165, 187, 153);
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+    border: solid 1px rgb(99, 94, 94);
+    border-radius: 15%;
+}
+h2 {
+    font-size: 17px;
+    padding: 0 0 0 135px;
+}
+h3 {
+    font-size: 14px;
+    padding: 0 0 0 135px;
+}
+h4 {
+    font-size: 17px;
+}
+p {
+    padding: 10px;
+    border: solid 1px rgb(99, 94, 94);
+    border-radius: 2%;
+    font-size: 15px;
+}
+img {
+    border: solid 1px rgb(160, 160, 119);
+    border-radius: 100%;
+    width: 125px;
+}
