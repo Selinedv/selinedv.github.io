@@ -2,22 +2,22 @@ body {
     background-color: rgb(53, 49, 49);
     font-family: Trebuchet MS;
     color: rgb(190, 196, 190);
-}
+    }
 h1 {
     font-size: 20px;
-    text-align: center;
-    border: solid 1px rgb(122, 116, 116);
+    text-align: left;
     color: rgb(127, 172, 127);
     border-radius: 15%;
 }
 h2 {
+    text-align: left;
     font-size: 17px;
     padding: 0 0 0 135px;
     color: rgb(127, 172, 127);
     padding: 0 0 15px 135px;
 }
 h3 {
-    font-size: 14px;
+   font-size: 14px;
     padding: 0 0 15px 135px;
 }
 h4 {
@@ -31,6 +31,10 @@ p {
 img {
     border: solid 1px rgb(160, 160, 119);
     border-radius: 50%;
-    width: 215px;
-    height: 235px;
+    width: 50%;
+    Height: 50%;
+    float: left;
 }
+.about {clear: left;}
+.container {display: flex; border: 1px solid #457081;}
+.item {margin: 10px;}
