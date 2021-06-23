@@ -1,11 +1,15 @@
+<html>
+<body>
 <font size="5" color="778899" face="Trebuchet MS"> Selin Dmitry Vladimirovich </font> <br clear="side"/>
-<img src="\images\smallphoto.jpg" align="left" alt="image" width="125"/>
+<img src="assets/images/smallphoto.jpg" align="left" alt="image" width="125"/>
 <cut/>
-<font size="4" color="778899" face="Trebuchet MS">Junior QC Engineer</font><br clear="">
-ㅤ**Phone:** +7(926)350-80-05 <br>
-ㅤ**Mail:** selinedv@gmail.com <br>
-ㅤ**Age:** 37 <br clear="">
-ㅤ**Resume:** [на русском](https://github.com/Selinedv/selinedv.github.io/raw/main/Selin_CV_v9.pdf "Click to load")<br> 
+<font size="4" color="778899" face="Trebuchet MS">Junior QC Engineer</font><br>
+<p>
+ㅤPhone: +7(926)350-80-05 <br>
+ㅤMail: selinedv@gmail.com <br>
+ㅤAge: 37 <br>
+ㅤResume: <a href = "resourses/Selin_CV_v9.pdf">Russian </a> <br>
+</p>
 <font size="3" color="778899" face="Trebuchet MS">About</font>
 Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To automate daily routine via BAS and Puppeteer frameworks. To improve SQL proficiency level by sql-ex.ru. Customer support experience.
  <br/>
@@ -59,3 +63,5 @@ Product Manager (Lenovo ThinkPad/Center)<br>
 -Take action to balance the inventory and do a daily routine of inventory reporting <br>
 -Form distinct inventory stock based on ABC and competitors' stock <br>
 Achievements: to meet KPI, increase of turnover due to investment into presale activity
+</body>
+</html>
