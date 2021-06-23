@@ -30,7 +30,6 @@ body {
     }
     img {
     border-radius: 25%;
-    height: 135px; 
     float: left;
     }
     .about {
@@ -41,5 +40,4 @@ body {
     }
     .item {
     margin: 10px;
-    border: 1px solid 
     }
