@@ -30,7 +30,7 @@ p {
 }
 img {
     border: solid 1px rgb(160, 160, 119);
-    border-radius: 100%;
-    width: 125px;
-    height: 135px;
+    border-radius: 50%;
+    width: 215px;
+    height: 235px;
 }
