@@ -39,5 +39,6 @@ body {
     display: flex; flex-direction: column; border: 1px solid #457081; width: 200px;
     }
     .item {
-    margin: 10px;
+    margin: 5px;
+    width: 195px;
     }
