@@ -1,15 +1,32 @@
+<!DOCTYPE html>
 <html>
+ <head>
+  <title>SelinCV
+  </title>
+  <style>
+      body {background-color: rgba(165, 42, 42, 0); font-family: Trebuchet MS;}
+      h1 {"font-size: 20px;}
+      h2 {"font-size: 17px;}
+      p {"font-size: 10px;}
+  </style>
+ </head>
+
 <body>
-<font size="5" color="778899" face="Trebuchet MS"> Selin Dmitry Vladimirovich </font> <br clear="side"/>
-<img src="assets/images/smallphoto.jpg" align="left" alt="image" width="125"/>
+<h1>Selin Dmitry Vladimirovich</h1>
+<img src="assets/images/smallphoto.jpg" align="left" width="125">
 <cut/>
-<font size="4" color="778899" face="Trebuchet MS">Junior QC Engineer</font><br>
+<h2>Junior QC Engineer</h2>
 <p>
-ㅤPhone: +7(926)350-80-05 <br>
-ㅤMail: selinedv@gmail.com <br>
-ㅤAge: 37 <br>
-ㅤResume: <a href = "resourses/Selin_CV_v9.pdf">Russian </a> <br>
+Phone: +7(926)350-80-05<br>
+Mail: selinedv@gmail.com<br>
+Age: 37<br> 
+Resume: <a href = "resourses/Selin_CV_v9.pdf">Russian</a>
 </p>
+<br>
+
+
+<cut/>
+
 <font size="3" color="778899" face="Trebuchet MS">About</font>
 Yandex.Practicum graduate. Further to indeep QA knowledge by EPAM portal. To automate daily routine via BAS and Puppeteer frameworks. To improve SQL proficiency level by sql-ex.ru. Customer support experience.
  <br/>
