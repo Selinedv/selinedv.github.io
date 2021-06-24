@@ -4,37 +4,39 @@
 }
 .container {
     display: grid;
-    grid-gap: 2px;
+    grid-gap: 0px;
     grid-template-areas: 
-    'photo header header'
-    'photo position position'
-    'contacts jobs jobs'
-    'about jobs jobs'
-    'skills jobs jobs'
-    'skillscontent jobs jobs'
-    'education jobs jobs'
-    'ed_content jobs jobs'
-    'courcontent jobs jobs'
-    'courses jobs jobs';
+    'photo header header header'
+    'photo position position position'
+    'about jobs jobs jobs '
+    'contacts jobs jobs jobs'
+    
+    'skills jobs jobs jobs'
+    'skillscontent jobs jobs jobs'
+    'education jobs jobs jobs'
+    'ed_content jobs jobs jobs'
+    'courcontent jobs jobs jobs'
+    'courses jobs jobs jobs';
 }
 .item {
+    margin: 4px 5px 3px 5px ;
     background-color: #868b91;
     text-align: left;
     boarder-radius: 15px;
 }
 
 .photo  {grid-area: photo;}
-.header {grid-area: header;}
-.position {grid-area: position}
-.contacts {grid-area: contacts}
-.about {grid-area: about;}
-.skills{grid-area: skills; font-size: 1.5rem; font-weight: bold;}
+.header {grid-area: header; font-size: 21px; font-weight: bold;}
+.position {grid-area: position; font-size: 20px; font-weight: bold;}
+.contacts {grid-area: contacts;}
+.about {grid-area: about; font-size: 21px; font-weight: bold;}
+.skills{grid-area: skills; font-size: 21px; font-weight: bold;}
 .skillscontent{ grid-area: skillscontent;}
 .jobs{grid-area: jobs;}
-.education{grid-area: education; font-size: 1.5rem;; font-weight: bold;}
+.education{grid-area: education; font-size: 21px; font-weight: bold;}
 .ed_content {grid-area: ed_content}
 .courses{grid-area: courses;}
-.courcontent{grid-area: courcontent; font-size: 1.5rem; font-weight: bold;}
+.courcontent{grid-area: courcontent; font-size: 21px; font-weight: bold;}
 
 .img {
     border-radius: 75%;
