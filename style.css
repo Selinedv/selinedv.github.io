@@ -1,15 +1,23 @@
 .body {
-    background-color: #4e524f;
-    font: normal normal 20px Myriad Pro, Arial, sans-serif;
+    background-color: #b0abca;
+    font: normal normal 14px Myriad Pro, Arial, sans-serif;
+    max-width: 1920px;
+    min-width: 320px;
+    margin: auto;
 }
 .container {
     display: grid;
     grid-gap: 0px;
-    grid-template-areas: 
+    grid-template-columns: 220px 150px 150px;
+    grid-template-areas:
     'photo header header header'
     'photo position position position'
-    'photo position position position'
-    'about jobs jobs jobs '
+    'photo jobs jobs jobs'
+    'photo jobs jobs jobs'
+    'photo jobs jobs jobs'
+    'photo jobs jobs jobs'
+    'photo jobs jobs jobs'
+    'about jobs jobs jobs'
     'contacts jobs jobs jobs'
     'skills jobs jobs jobs'
     'skillscontent jobs jobs jobs'
@@ -19,31 +27,27 @@
     'courses jobs jobs jobs';
 }
 .item {
-    margin: 4px 5px 0px 5px ;
-    background-color: #868b91;
+    margin: 1px 1px 1px 1px ;
+    background-color: #b2c3d8;
     flex: 50%;
     text-align: left;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
-.photo  {grid-area: photo; flex-basis: 200px}
-.header {grid-area: header; font-size: 21px; font-weight: bold;}
-.position {grid-area: position; font-size: 20px; font-weight: bold;}
+.photo  {grid-area: photo; text-align: center; padding-top: 10px;}
+.header {grid-area: header; font-size: 22px; font-weight: bold; color:rgb(55, 41, 131)}
+.position {grid-area: position; font-size: 20px; font-weight: bol; color:rgb(55, 41, 131)}
 .contacts {grid-area: contacts;}
-.about {grid-area: about; font-size: 21px; font-weight: bold; color:}
-.skills{grid-area: skills; font-size: 21px; font-weight: bold;}
-.skillscontent{ grid-area: skillscontent;}
-.jobs{grid-area: jobs;}
-.jobname{grid-area: jobs;}
-.education{grid-area: education; font-size: 21px; font-weight: bold;}
+.about {grid-area: about; font-size: 16px; font-weight: bold; text-align: center; color:rgb(35, 46, 46)}
+.skills{grid-area: skills; font-size: 16px; font-weight: bold; text-align: center; color:rgb(35, 46, 46)}
+.skillscontent{grid-area: skillscontent;}
+.jobs{grid-area: jobs; display: inside; justify-content: left;}
+.jobname{grid-area: jobs; }
+.education{grid-area: education; font-size: 16px; font-weight: bold;text-align: center; color:rgb(35, 46, 46)}
 .ed_content {grid-area: ed_content}
 .courses{grid-area: courses;}
-.courcontent{grid-area: courcontent; font-size: 21px; font-weight: bold;}
+.courcontent{grid-area: courcontent; font-size: 16px; font-weight: bold;text-align: center; color:rgb(35, 46, 46)}
 
-.img {
-    border-radius: 75%;
-    flex-basis: center;
-    width: 150px;
-    height: 150px;   
-}
+.job {display: flex; justify-content: left;}
+img {border-radius: 50%;}
 a {color: #28292b;}
