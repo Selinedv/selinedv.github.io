@@ -11,18 +11,19 @@
     grid-gap: 3px;
     grid-template-columns: 210px 75% 15%;
     grid-template-areas:
-    'photo header'
-    'photo position'
-    'photo Jobt'
-    'photo job'
-    'about jobs'
-    'contacts jobs'
-    'skills jobs'
-    'skillscontent jobs'
-    'education jobs'
-    'ed_content jobs'
-    'courcontent jobs'
-    'courses jobs';
+    'photo header header'
+    'photo JuniorQC JuniorQC'
+    'photo Experience Experience'
+    'photo jobname period'
+    'photo jobs jobs'
+    'about jobs jobs'
+    'contacts jobs jobs'
+    'skills jobs jobs'
+    'skillscontent jobs jobs'
+    'education jobs jobs'
+    'ed_content jobs jobs'
+    'courcontent jobs jobs'
+    'courses jobs jobs';
 }
 .item {
     background-color: #7e90a7;
@@ -32,21 +33,102 @@
     border-radius: 5px;
 }
 
-.photo  {grid-area: photo; text-align: center; padding-top: 10px;background-color: cadetblue;}
-.header {grid-area: header; padding-left: 5px; font-size: 22px; font-weight: bold; color:rgb(43, 42, 49)}
-.position {grid-area: position; padding-left: 10px; font-size: 15px; font-weight: bold; color:rgb(43, 42, 49)}
-.Jobt {grid-area: Jobt; padding-left: 10px; font-size: 17px; font-weight: bold; color:rgb(43, 42, 49)}
-.contacts {grid-area: contacts;background-color: cadetblue; }
-.about {grid-area: about; font-size: 16px; font-weight: bold; text-align: center; color:rgb(35, 46, 46);}
-.skills{grid-area: skills; font-size: 16px; font-weight: bold; text-align: center; color:rgb(35, 46, 46);}
-.skillscontent{grid-area: skillscontent;background-color: cadetblue;}
-.jobs{grid-area: jobs; display: inside; justify-content: left;}
-.jobname{grid-area: jobs; }
-.education{grid-area: education; font-size: 16px; font-weight: bold;text-align: center; color:rgb(35, 46, 46); }
-.ed_content {grid-area: ed_content;background-color: cadetblue;}
-.courses{grid-area: courses;;background-color: cadetblue;}
-.courcontent{grid-area: courcontent; font-size: 16px; font-weight: bold;text-align: center; color:rgb(35, 46, 46);}
-
-.job {display: flex; justify-content: left;}
+.photo {
+    grid-area: photo; 
+    text-align: center; 
+    padding-top: 10px;
+    background-color: rgb(117, 99, 143);
+}
+.header {
+    grid-area: header; 
+    padding-left: 10px; 
+    font-size: 22px; 
+    font-weight: bold; 
+    color:rgb(43, 42, 49);
+    background-color: rgb(117, 99, 143);
+    color:rgb(35, 46, 46);
+}
+.JuniorQC {
+    grid-area: JuniorQC; 
+    padding-left: 10px; 
+    font-size: 15px; 
+    font-weight: bold; 
+    color:rgb(35, 46, 46);
+    background-color: cadetblue;}
+.Experience {
+    grid-area: Experience; 
+    padding-left: 10px; 
+    font-size: 17px; 
+    font-weight: bold; 
+    color:rgb(43, 42, 49)
+}
+.contacts {
+    grid-area: contacts;
+    background-color: cadetblue;
+}
+.about {
+    grid-area: about; 
+    font-size: 16px; 
+    font-weight: bold; 
+    text-align: center; 
+    color:rgb(35, 46, 46);
+}
+.skills{
+    grid-area: skills; 
+    font-size: 16px; 
+    font-weight: bold; 
+    text-align: center; 
+    color:rgb(35, 46, 46);
+}
+.skillscontent{
+    grid-area: skillscontent;
+    background-color: cadetblue;
+}
+.jobs{
+    grid-area: jobs; 
+    display: inside; 
+    justify-content: left;
+}
+.education{
+    grid-area: education; 
+    font-size: 16px; 
+    font-weight: bold;
+    text-align: center; 
+    color:rgb(35, 46, 46);
+}
+.ed_content {
+    grid-area: ed_content;
+    background-color: cadetblue;
+}
+.courses{
+    grid-area: courses;
+    background-color: cadetblue;
+}
+.courcontent{
+    grid-area: courcontent; 
+    font-size: 16px; 
+    font-weight: bold;
+    text-align: center; 
+    color:rgb(35, 46, 46);}
+.jobname {
+    grid-area: jobname; 
+    padding-left: 20px; 
+    margin-bottom: -2px; 
+    font-size: 15px; 
+    font-weight: bold; 
+    background-color: cadetblue;
+    color:rgb(35, 46, 46);
+}
+.period {
+    grid-area: period; 
+    padding-left: 8px; 
+    margin-bottom: -2px; 
+    font-size: 15px; 
+    font-weight: bold; 
+    background-color: cadetblue;
+}
+.job {display: flex; 
+    justify-content: left;
+}
 img {border-radius: 50%;}
 a {color: #28292b;}
