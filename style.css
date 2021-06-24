@@ -1,5 +1,5 @@
 .body {
-    background-color: #a2b4a5;
+    background-color: #4e524f;
     font: normal normal 20px Myriad Pro, Arial, sans-serif;
 }
 .container {
@@ -8,9 +8,9 @@
     grid-template-areas: 
     'photo header header header'
     'photo position position position'
+    'photo position position position'
     'about jobs jobs jobs '
     'contacts jobs jobs jobs'
-    
     'skills jobs jobs jobs'
     'skillscontent jobs jobs jobs'
     'education jobs jobs jobs'
@@ -19,20 +19,22 @@
     'courses jobs jobs jobs';
 }
 .item {
-    margin: 4px 5px 3px 5px ;
+    margin: 4px 5px 0px 5px ;
     background-color: #868b91;
+    flex: 50%;
     text-align: left;
-    boarder-radius: 15px;
+    border-radius: 5px;
 }
 
-.photo  {grid-area: photo;}
+.photo  {grid-area: photo; flex-basis: 200px}
 .header {grid-area: header; font-size: 21px; font-weight: bold;}
 .position {grid-area: position; font-size: 20px; font-weight: bold;}
 .contacts {grid-area: contacts;}
-.about {grid-area: about; font-size: 21px; font-weight: bold;}
+.about {grid-area: about; font-size: 21px; font-weight: bold; color:}
 .skills{grid-area: skills; font-size: 21px; font-weight: bold;}
 .skillscontent{ grid-area: skillscontent;}
 .jobs{grid-area: jobs;}
+.jobname{grid-area: jobs;}
 .education{grid-area: education; font-size: 21px; font-weight: bold;}
 .ed_content {grid-area: ed_content}
 .courses{grid-area: courses;}
@@ -40,6 +42,8 @@
 
 .img {
     border-radius: 75%;
-    width: 200px;
-    height: 150px;
+    flex-basis: center;
+    width: 150px;
+    height: 150px;   
 }
+a {color: #28292b;}
