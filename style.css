@@ -32,3 +32,8 @@
 .ed_content {grid-area: ed_content}
 .courses{grid-area: courses}
 .courcontent{grid-area: courcontent}
+
+.img {
+    border-radius: 75%;
+    width: 200px;
+}
