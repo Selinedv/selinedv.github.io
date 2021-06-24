@@ -1,15 +1,18 @@
 .body {
     background-color: #a2b4a5;
+    font-family: Trebuchet MS; 
+    font-size: 14px;
 }
 .container {
     display: grid;
-    grid-gap: 5px;
+    grid-gap: 2px;
     grid-template-areas: 
     'photo header header'
     'photo position position'
     'contacts jobs jobs'
     'about jobs jobs'
     'skills jobs jobs'
+    'skillscontent jobs jobs'
     'education jobs jobs'
     'ed_content jobs jobs'
     'courcontent jobs jobs'
@@ -26,12 +29,13 @@
 .position {grid-area: position}
 .contacts {grid-area: contacts}
 .about {grid-area: about;}
-.skills{grid-area: skills;}
+.skills{grid-area: skills; font-size: 16px; font-weight: bold;}
+.skillscontent{ grid-area: skillscontent;}
 .jobs{grid-area: jobs;}
-.education{grid-area: education;}
+.education{grid-area: education; font-size: 16px; font-weight: bold;}
 .ed_content {grid-area: ed_content}
-.courses{grid-area: courses}
-.courcontent{grid-area: courcontent}
+.courses{grid-area: courses;}
+.courcontent{grid-area: courcontent; font-size: 16px; font-weight: bold;}
 
 .img {
     border-radius: 75%;
