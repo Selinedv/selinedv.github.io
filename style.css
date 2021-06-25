@@ -1,134 +1,171 @@
 .body {
-    background-color: #595764;
-    font: normal normal 13px Myriad Pro, Arial, sans-serif;
-    max-width: 900px;
-    min-width: 320px;
+    background-color: #e2eed8;
+    font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
+    color:rgb(119, 115, 124);
+    display: flex;
+    justify-content: space-between;
+    max-width: 980px;
+    min-width: 500px;
     margin: auto;
 }
 .container {
     display: grid;
     margin: 5px 3px 5px 3px;
     grid-gap: 3px;
-    grid-template-columns: 210px 75% 15%;
+    grid-template-columns: 30% 50% 20%;
     grid-template-areas:
     'photo header header'
     'photo JuniorQC JuniorQC'
     'photo Experience Experience'
     'photo jobname period'
     'photo jobs jobs'
-    'about jobs jobs'
+    'contact jobs jobs'
     'contacts jobs jobs'
     'skills jobs jobs'
     'skillscontent jobs jobs'
     'education jobs jobs'
     'ed_content jobs jobs'
-    'courcontent jobs jobs'
-    'courses jobs jobs';
+    'courses jobs jobs'
+    'courcontent jobs jobs';
 }
 .item {
-    background-color: #7e90a7;
+    background-color: #ffffff;
     flex: 50%;
-    margin-left: 5px;
     text-align: left;
     border-radius: 5px;
 }
 
 .photo {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
     grid-area: photo; 
-    text-align: center; 
-    padding-top: 10px;
-    background-color: rgb(117, 99, 143);
+    padding: 0.4rem;
+    background-color: #e2eed8;
 }
 .header {
     grid-area: header; 
     padding-left: 10px; 
-    font-size: 22px; 
+    font-size: 1.375rem; 
     font-weight: bold; 
     color:rgb(43, 42, 49);
-    background-color: rgb(117, 99, 143);
+    background-color: #e2eed8;
     color:rgb(35, 46, 46);
 }
 .JuniorQC {
     grid-area: JuniorQC; 
-    padding-left: 10px; 
-    font-size: 15px; 
+    letter-spacing: .04rem;
+    padding: 0.3rem 1rem; 0 0;
+    font-size: 1rem; 
     font-weight: bold; 
     color:rgb(35, 46, 46);
-    background-color: cadetblue;}
+    background-color: #ffffff;
+}
 .Experience {
-    grid-area: Experience; 
-    padding-left: 10px; 
-    font-size: 17px; 
+    grid-area: Experience;  
+    padding: 0.3rem 1rem; 0 0;
+    letter-spacing: .04rem;
+    font-size: 1.0625rem; 
     font-weight: bold; 
-    color:rgb(43, 42, 49)
+    color:rgb(43, 42, 49);
 }
 .contacts {
     grid-area: contacts;
-    background-color: cadetblue;
+    background-color: #ffffff;;
 }
-.about {
-    grid-area: about; 
-    font-size: 16px; 
+.contact {
+    margin-top: 1rem;
+    grid-area: contact; 
+    padding: 0.3rem;
+    font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
     color:rgb(35, 46, 46);
 }
 .skills{
+    margin-top: 1rem;
     grid-area: skills; 
-    font-size: 16px; 
+    padding: 0.3rem;
+    font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
     color:rgb(35, 46, 46);
 }
 .skillscontent{
     grid-area: skillscontent;
-    background-color: cadetblue;
+    background-color:#ffffff;
 }
 .jobs{
+    padding-right: 10px;
+    padding: 0.3rem 1rem; 0 0;
     grid-area: jobs; 
     display: inside; 
     justify-content: left;
 }
 .education{
+    margin-top: 1rem;
+    padding: 0.3rem 1rem; 0 0;
     grid-area: education; 
-    font-size: 16px; 
+    font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
     color:rgb(35, 46, 46);
 }
 .ed_content {
     grid-area: ed_content;
-    background-color: cadetblue;
-}
-.courses{
-    grid-area: courses;
-    background-color: cadetblue;
+    background-color:#ffffff;;
 }
 .courcontent{
-    grid-area: courcontent; 
-    font-size: 16px; 
+    grid-area: courcontent;
+    background-color:#ffffff;;
+}
+.courses {
+    padding: 0.3rem;
+    margin-top: 1rem;
+    grid-area: courses; 
+    font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-    color:rgb(35, 46, 46);}
+    color:rgb(35, 46, 46);
+}
 .jobname {
-    grid-area: jobname; 
-    padding-left: 20px; 
+    grid-area: jobname;
+    padding: 0.5rem; 
+    padding-left: 1rem;
+    padding-bottom: 0.5rem; 
     margin-bottom: -2px; 
-    font-size: 15px; 
-    font-weight: bold; 
-    background-color: cadetblue;
+    font-size: 0.9375rem; 
+    font-weight: bold;     
     color:rgb(35, 46, 46);
 }
 .period {
-    grid-area: period; 
-    padding-left: 8px; 
+    grid-area: period;
+    color:rgb(35, 46, 46);
+    text-align: center; 
+    padding: 0.5rem; 
+    padding-left: 1rem;
+    padding-bottom: 0.5rem; 
     margin-bottom: -2px; 
-    font-size: 15px; 
+    font-size: 0.9375rem; 
     font-weight: bold; 
-    background-color: cadetblue;
 }
 .job {display: flex; 
     justify-content: left;
 }
-img {border-radius: 50%;}
-a {color: #28292b;}
+
+img {
+    border-radius: 50%;
+}
+
+a {
+    color: #28292b;
+}
+
+h1 { font: normal normal 0.87rem Myriad Pro, Arial, sans-serif;
+    font-weight: bold; 
+    letter-spacing: .001rem;
+    text-align: left; 
+    color:rgb(25, 22, 29);
+}
