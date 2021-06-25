@@ -19,15 +19,15 @@
     'photo Experience Experience'
     'photo jobname period'
     'photo jobs jobs'
-    'contact jobs jobs'
+    'contacts_header jobs jobs'
     'contacts jobs jobs'
+    'skills_header jobs jobs'
     'skills jobs jobs'
-    'skillscontent jobs jobs'
+    'education_header jobs jobs'
     'education jobs jobs'
-    'ed_content jobs jobs'
+    'courses_header jobs jobs'
     'courses jobs jobs'
-    'courcontent jobs jobs';
-}
+    }
 .item {
     background-color: #ffffff;
     flex: 50%;
@@ -36,13 +36,12 @@
 }
 
 .photo {
+    grid-area: photo; 
     display: flex;
     justify-content: center;
     align-content: center;
     width: 100%;
-    height: 100%;
-    grid-area: photo; 
-    padding: 0.4rem;
+    height: 100%;    
     background-color: #e2eed8;
 }
 .header {
@@ -52,84 +51,85 @@
     font-weight: bold; 
     color:rgb(43, 42, 49);
     background-color: #e2eed8;
-    color:rgb(35, 46, 46);
-}
+   }
 .JuniorQC {
     grid-area: JuniorQC; 
     letter-spacing: .04rem;
-    padding: 0.3rem 1rem; 0 0;
+    padding: 0.3rem 1rem 0 1rem;
     font-size: 1rem; 
     font-weight: bold; 
-    color:rgb(35, 46, 46);
-    background-color: #ffffff;
+       background-color: #ffffff;
 }
 .Experience {
     grid-area: Experience;  
-    padding: 0.3rem 1rem; 0 0;
+    padding: 0.3rem 1rem 0 1rem;
     letter-spacing: .04rem;
     font-size: 1.0625rem; 
     font-weight: bold; 
-    color:rgb(43, 42, 49);
-}
+    }
 .contacts {
     grid-area: contacts;
     background-color: #ffffff;;
 }
-.contact {
+.contacts_header {
     margin-top: 1rem;
-    grid-area: contact; 
+    grid-area: contacts_header; 
     padding: 0.3rem;
     font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
-    color:rgb(35, 46, 46);
-}
+   }
+.skills_header{
+    margin-top: 1rem;
+    grid-area: skills_header; 
+    padding: 0.3rem;
+    font-size: 1rem; 
+    font-weight: bold; 
+    text-align: center; 
+   }
 .skills{
-    margin-top: 1rem;
-    grid-area: skills; 
-    padding: 0.3rem;
-    font-size: 1rem; 
-    font-weight: bold; 
-    text-align: center; 
-    color:rgb(35, 46, 46);
-}
-.skillscontent{
-    grid-area: skillscontent;
+    grid-area: skills;
     background-color:#ffffff;
 }
 .jobs{
     padding-right: 10px;
-    padding: 0.3rem 1rem; 0 0;
+    padding: 0.3rem 1rem 0 0;
     grid-area: jobs; 
     display: inside; 
     justify-content: left;
+    
 }
-.education{
+.j{
+    padding-right: 10px;
+    padding: 0.3rem 1rem 0 0;
+    grid-area: j; 
+    display: inside; 
+    justify-content: left;
+}
+.education_header{
+    grid-area: education_header; 
     margin-top: 1rem;
-    padding: 0.3rem 1rem; 0 0;
-    grid-area: education; 
+    padding: 0.3rem 1rem 0 0;
     font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-    color:rgb(35, 46, 46);
-}
-.ed_content {
-    grid-area: ed_content;
+   }
+.education{
+    grid-area: education;
     background-color:#ffffff;;
 }
-.courcontent{
-    grid-area: courcontent;
+.courses{
+    grid-area: courses;
     background-color:#ffffff;;
 }
-.courses {
+.courses_header  {
+    grid-area: courses_header; 
     padding: 0.3rem;
     margin-top: 1rem;
-    grid-area: courses; 
     font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-    color:rgb(35, 46, 46);
-}
+   }
 .jobname {
     grid-area: jobname;
     padding: 0.5rem; 
@@ -138,11 +138,9 @@
     margin-bottom: -2px; 
     font-size: 0.9375rem; 
     font-weight: bold;     
-    color:rgb(35, 46, 46);
-}
+   }
 .period {
     grid-area: period;
-    color:rgb(35, 46, 46);
     text-align: center; 
     padding: 0.5rem; 
     padding-left: 1rem;
