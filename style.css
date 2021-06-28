@@ -8,7 +8,7 @@
     display: grid;
     margin: 5px 3px 5px 3px;
     grid-gap: 3px;
-    grid-template-columns: 27% 73%;
+    grid-template-columns: 32% 68%;
     grid-template-areas:
     'photo header '
     'photo JuniorQC'
@@ -158,6 +158,9 @@ h1 {font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
     letter-spacing: .001rem;
     text-align: left; 
     color:rgb(25, 22, 29);
+    background-color: rgb(232, 241, 241);
 }
-z {background-color: rgb(232, 241, 241);
+z { 
+    color:rgb(25, 22, 29);
+    
 }
