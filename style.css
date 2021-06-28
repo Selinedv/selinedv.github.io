@@ -147,6 +147,10 @@ img {
 a {
     color: #28292b;
 }
+h4{
+    color: #28292b;
+    background-color: rgb(232, 241, 241);
+}
 h1 {font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
     padding-top: 0;
     padding-bottom: 0;
