@@ -30,7 +30,6 @@
     text-align: left;
     border-radius: 5px;
 }
-
 .photo {
     grid-area: photo; 
     object-fit: cover;
@@ -44,29 +43,30 @@
 }
 .header {
     grid-area: header; 
-    padding-left: 10px; 
+    padding-left: 5rem; 
     font-size: 1.375rem; 
     font-weight: bold; 
     color:rgb(0, 0, 0);
     background-color: #e2eed8;
-   }
+}
 .JuniorQC {
     grid-area: JuniorQC; 
     letter-spacing: .04rem;
-    padding: 0.3rem 1rem 0 1rem;
-    font-size: 1rem; 
+    padding: 0.3rem 1rem 0 2rem;
+    font-size: 1.0625rem;
     font-weight: bold; 
     background-color: #ffffff;
     color:rgb(25, 22, 29);
 }
 .Experience {
     grid-area: Experience;  
-    padding: 0.3rem 1rem 0 1rem;
+    padding: 0.3rem 0 0 3rem;
     letter-spacing: .04rem;
     font-size: 1.0625rem; 
     font-weight: bold;
-    color:rgb(25, 22, 29); 
-    }
+    color:rgb(25, 22, 29);
+    background-color: #e2eed8; 
+}
 .contacts {
     grid-area: contacts;
     background-color: #ffffff;;
@@ -78,7 +78,7 @@
     font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
-   }
+}
 .skills_header{
     margin-top: 1rem;
     grid-area: skills_header; 
@@ -86,24 +86,17 @@
     font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
-   }
+}
 .skills{
     grid-area: skills;
     background-color:#ffffff;
 }
 .jobs{
-    padding: 0.3rem 0.5rem 0 0;
+    padding: 0 0.1rem 0 0;
     grid-area: jobs; 
     display: flex; 
     justify-content: left;
     
-}
-.j{
-    padding-right: 10px;
-    padding: 0.3rem 1rem 0 0;
-    grid-area: j; 
-    display: inside; 
-    justify-content: left;
 }
 .education_header{
     grid-area: education_header; 
@@ -112,7 +105,7 @@
     font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-   }
+}
 .education{
     grid-area: education;
     background-color:#ffffff;;
@@ -128,7 +121,7 @@
     font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-   }
+}
 .jobname {
     grid-area: jobname;
     padding: 0.5rem; 
@@ -137,7 +130,7 @@
     margin-bottom: -2px; 
     font-size: 0.9375rem; 
     font-weight: bold;     
-   }
+}
 .period {
     grid-area: period;
     text-align: center; 
@@ -148,23 +141,19 @@
     font-size: 0.9375rem; 
     font-weight: bold; 
 }
-.job {display: flex; 
-    justify-content: left;
-}
-
 img {
     border-radius: 50%;
 }
-
 a {
     color: #28292b;
 }
-
-h1 { font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
+h1 {font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
     padding-top: 0;
     padding-bottom: 0;
     font-weight: bold; 
     letter-spacing: .001rem;
     text-align: left; 
     color:rgb(25, 22, 29);
+}
+z {background-color: rgb(232, 241, 241);
 }
