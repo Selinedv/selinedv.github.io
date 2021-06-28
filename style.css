@@ -8,7 +8,7 @@
     display: grid;
     margin: 5px 3px 5px 3px;
     grid-gap: 3px;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 27% 73%;
     grid-template-areas:
     'photo header '
     'photo JuniorQC'
@@ -33,11 +33,12 @@
 
 .photo {
     grid-area: photo; 
+    object-fit: cover;
     display: flex;
     justify-content: center;
     align-content: center;
-    width: 100%;
-    height: 100%;    
+    max-width: 100%;
+    height: 220px;    
     background-color: #e2eed8;
     z-index: 2;
 }
