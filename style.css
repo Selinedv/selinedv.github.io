@@ -3,33 +3,34 @@
     font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
     color:rgb(119, 115, 124);
     display: flex;
-}
+    }
 .container {
     display: grid;
     margin: 5px 3px 5px 3px;
     grid-gap: 3px;
-    grid-template-columns: 30% 50% 20%;
+    grid-template-columns: 30% 70%;
     grid-template-areas:
-    'photo header header'
-    'photo JuniorQC JuniorQC'
-    'photo Experience Experience'
-    'photo jobname period'
-    'photo jobs jobs'
-    'contacts_header jobs jobs'
-    'contacts jobs jobs'
-    'skills_header jobs jobs'
-    'skills jobs jobs'
-    'education_header jobs jobs'
-    'education jobs jobs'
-    'courses_header jobs jobs'
-    'courses jobs jobs'
-}
+    'photo header '
+    'photo JuniorQC'
+    'photo Experience'
+    'photo jobs'
+    'photo jobs'
+    'contacts_header jobs'
+    'contacts jobs'
+    'skills_header jobs'
+    'skills jobs'
+    'education_header jobs'
+    'education jobs'
+    'courses_header jobs'
+    'courses jobs'
+    }
 .item {
     background-color: #ffffff;
     flex: 50%;
     text-align: left;
     border-radius: 5px;
 }
+
 .photo {
     grid-area: photo; 
     display: flex;
@@ -38,34 +39,33 @@
     width: 100%;
     height: 100%;    
     background-color: #e2eed8;
-    z-index: -2;
+    z-index: 2;
 }
 .header {
     grid-area: header; 
     padding-left: 10px; 
     font-size: 1.375rem; 
     font-weight: bold; 
-    color:rgb(43, 42, 49);
+    color:rgb(0, 0, 0);
     background-color: #e2eed8;
-}
+   }
 .JuniorQC {
     grid-area: JuniorQC; 
     letter-spacing: .04rem;
     padding: 0.3rem 1rem 0 1rem;
-    margin-top: 1rem;
     font-size: 1rem; 
     font-weight: bold; 
     background-color: #ffffff;
+    color:rgb(25, 22, 29);
 }
 .Experience {
     grid-area: Experience;  
     padding: 0.3rem 1rem 0 1rem;
     letter-spacing: .04rem;
-    margin-top: 1rem;
-    margin-b: 1rem;
     font-size: 1.0625rem; 
-    font-weight: bold; 
-}
+    font-weight: bold;
+    color:rgb(25, 22, 29); 
+    }
 .contacts {
     grid-area: contacts;
     background-color: #ffffff;;
@@ -77,7 +77,7 @@
     font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
-}
+   }
 .skills_header{
     margin-top: 1rem;
     grid-area: skills_header; 
@@ -85,13 +85,13 @@
     font-size: 1rem; 
     font-weight: bold; 
     text-align: center; 
-}
+   }
 .skills{
     grid-area: skills;
     background-color:#ffffff;
 }
 .jobs{
-    padding: 0.3rem 1rem 0 0;
+    padding: 0.3rem 0.5rem 0 0;
     grid-area: jobs; 
     display: flex; 
     justify-content: left;
@@ -106,16 +106,16 @@
 }
 .education_header{
     grid-area: education_header; 
+    padding: 0.3rem;
     margin-top: 1rem;
-    padding: 0.3rem 1rem 0 0;
     font-size: 1rem; 
     font-weight: bold;
     text-align: center; 
-}
+   }
 .education{
     grid-area: education;
-    background-color:#ffffff;
-}
+    background-color:#ffffff;;
+     }
 .courses{
     grid-area: courses;
     background-color:#ffffff;;
@@ -150,13 +150,18 @@
 .job {display: flex; 
     justify-content: left;
 }
+
 img {
     border-radius: 50%;
 }
+
 a {
     color: #28292b;
 }
-h1 { font: normal normal 0.87rem Myriad Pro, Arial, sans-serif;
+
+h1 { font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
+    padding-top: 0;
+    padding-bottom: 0;
     font-weight: bold; 
     letter-spacing: .001rem;
     text-align: left; 
