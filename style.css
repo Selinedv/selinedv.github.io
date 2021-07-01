@@ -94,12 +94,13 @@
 .skills{
     grid-area: skills;
     background-color:#ffffff;
+    vertical-align: middle;
 }
 .jobs{
     grid-area: jobs; 
     display: flex; 
     justify-content: left;
-    
+    vertical-align: middle;
 }
 .education_header{
     grid-area: education_header; 
@@ -111,11 +112,13 @@
 }
 .education{
     grid-area: education;
-    background-color:#ffffff;;
+    background-color:#ffffff;
+    vertical-align: middle;
      }
 .courses{
     grid-area: courses;
-    background-color:#ffffff;;
+    background-color:#ffffff;
+    vertical-align: middle;
 }
 .courses_header  {
     grid-area: courses_header; 
@@ -165,10 +168,8 @@ h1 {font: normal normal 0.8rem Myriad Pro, Arial, sans-serif;
 }
 z { 
     color:rgb(25, 22, 29);
-    
 }
 y { 
     color:rgb(83, 83, 83);
     font-weight: bold;
 }
-
