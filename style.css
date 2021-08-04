@@ -1,4 +1,4 @@
-.body {
+body {
     background-color: #202026;
     font: normal normal 0.8rem Montserrat, Montserrat, Montserrat;
     color:#202026;
@@ -7,6 +7,7 @@
 .container {
     display: grid;
     margin: 5px 3px 5px 3px;
+    padding: 1rem 1rem 1rem 1rem;
     grid-gap: 3px;
     grid-template-columns: 25% 75%;
     grid-template-areas:
@@ -86,7 +87,9 @@
     font-weight: bold; 
 }
 .jobs{
-    grid-area: jobs; 
+    grid-area: jobs;
+    padding: 1rem 1rem 1rem 1rem; 
+    width: 700px;
     display: flex; 
     justify-content: left;
     vertical-align: middle;
